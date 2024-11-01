@@ -1,0 +1,19 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Bocas del Toro", "value": "Bocas del Toro"},
+        {"label": "Chiriquí", "value": "Chiriquí"},
+        {"label": "Coclé", "value": "Coclé"},
+        {"label": "Colón", "value": "Colón"},
+        {"label": "Darién", "value": "Darién"},
+        {"label": "Herrera", "value": "Herrera"},
+        {"label": "Los Santos", "value": "Los Santos"},
+        {"label": "Panamá", "value": "Panamá"},
+        {"label": "Veraguas", "value": "Veraguas"},
+        {"label": "Panamá Oeste", "value": "Panamá Oeste"},
+        {"label": "Emberá", "value": "Emberá"},
+        {"label": "Guna Yala", "value": "Guna Yala"},
+        {"label": "Ngäbe-Buglé", "value": "Ngäbe-Buglé"}
+    ]
+}

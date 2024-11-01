@@ -1,0 +1,15 @@
+{
+    "label": "島",
+    "data": [
+        {"label": "島", "value": ""},
+        {"label": "Boa Vista", "value": "Boa Vista"},
+        {"label": "Brava", "value": "Brava"},
+        {"label": "Fogo", "value": "Fogo"},
+        {"label": "Maio", "value": "Maio"},
+        {"label": "Sal", "value": "Sal"},
+        {"label": "Santiago", "value": "Santiago"},
+        {"label": "Santo Antão", "value": "Santo Antão"},
+        {"label": "São Nicolau", "value": "São Nicolau"},
+        {"label": "São Vicente", "value": "São Vicente"}
+    ]
+}

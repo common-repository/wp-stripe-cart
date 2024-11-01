@@ -1,0 +1,28 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "Ulaanbaatar", "value": "Ulaanbaatar"},
+        {"label": "Arkhangai Province", "value": "Arkhangai Province"},
+        {"label": "Bayankhongor Province", "value": "Bayankhongor Province"},
+        {"label": "Bayan-Ölgii Province", "value": "Bayan-Ölgii Province"},
+        {"label": "Bulgan Province", "value": "Bulgan Province"},
+        {"label": "Darkhan-Uul Province", "value": "Darkhan-Uul Province"},
+        {"label": "Dornod Province", "value": "Dornod Province"},
+        {"label": "Dornogovi Province", "value": "Dornogovi Province"},
+        {"label": "Dundgovi Province", "value": "Dundgovi Province"},
+        {"label": "Zavkhan Province", "value": "Zavkhan Province"},
+        {"label": "Govi-Altai Province", "value": "Govi-Altai Province"},
+        {"label": "Govisümber Province", "value": "Govisümber Province"},
+        {"label": "Khentii Province", "value": "Khentii Province"},
+        {"label": "Khovd Province", "value": "Khovd Province"},
+        {"label": "Khövsgöl Province", "value": "Khövsgöl Province"},
+        {"label": "Ömnögovi Province", "value": "Ömnögovi Province"},
+        {"label": "Orkhon Province", "value": "Orkhon Province"},
+        {"label": "Övörkhangai Province", "value": "Övörkhangai Province"},
+        {"label": "Selenge Province", "value": "Selenge Province"},
+        {"label": "Sükhbaatar Province", "value": "Sükhbaatar Province"},
+        {"label": "Töv Province", "value": "Töv Province"},
+        {"label": "Uvs Province", "value": "Uvs Province"}
+    ]
+}

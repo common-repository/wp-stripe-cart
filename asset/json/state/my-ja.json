@@ -1,0 +1,22 @@
+{
+    "label": "州",
+    "data": [
+        {"label": "州", "value": ""},
+        {"label": "Johor", "value": "Johor"},
+        {"label": "Kedah", "value": "Kedah"},
+        {"label": "Kelantan", "value": "Kelantan"},
+        {"label": "Kuala Lumpur", "value": "Kuala Lumpur"},
+        {"label": "Labuan", "value": "Labuan"},
+        {"label": "Melaka", "value": "Melaka"},
+        {"label": "Negeri Sembilan", "value": "Negeri Sembilan"},
+        {"label": "Pahang", "value": "Pahang"},
+        {"label": "Perak", "value": "Perak"},
+        {"label": "Perlis", "value": "Perlis"},
+        {"label": "Pulau Pinang", "value": "Pulau Pinang"},
+        {"label": "Putrajaya", "value": "Putrajaya"},
+        {"label": "Sabah", "value": "Sabah"},
+        {"label": "Sarawak", "value": "Sarawak"},
+        {"label": "Selangor", "value": "Selangor"},
+        {"label": "Terengganu", "value": "Terengganu"}
+    ]
+}

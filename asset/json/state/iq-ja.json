@@ -1,0 +1,24 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Al Anbar Governorate", "value": "Al Anbar Governorate"},
+        {"label": "Basra Governorate", "value": "Basra Governorate"},
+        {"label": "Muthanna Governorate", "value": "Muthanna Governorate"},
+        {"label": "Al-Qadisiyah Governorate", "value": "Al-Qadisiyah Governorate"},
+        {"label": "Najaf Governorate", "value": "Najaf Governorate"},
+        {"label": "Erbil Governorate", "value": "Erbil Governorate"},
+        {"label": "Sulaymaniyah Governorate", "value": "Sulaymaniyah Governorate"},
+        {"label": "Babil Governorate", "value": "Babil Governorate"},
+        {"label": "Baghdad Governorate", "value": "Baghdad Governorate"},
+        {"label": "Dohuk Governorate", "value": "Dohuk Governorate"},
+        {"label": "Dhi Qar Governorate", "value": "Dhi Qar Governorate"},
+        {"label": "Diyala Governorate", "value": "Diyala Governorate"},
+        {"label": "Karbala Governorate", "value": "Karbala Governorate"},
+        {"label": "Kirkuk Governorate", "value": "Kirkuk Governorate"},
+        {"label": "Maysan Governorate", "value": "Maysan Governorate"},
+        {"label": "Nineveh Governorate", "value": "Nineveh Governorate"},
+        {"label": "Saladin Governorate", "value": "Saladin Governorate"},
+        {"label": "Wasit Governorate", "value": "Wasit Governorate"}
+    ]
+}

@@ -1,0 +1,16 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Brokopondo", "value": "Brokopondo"},
+        {"label": "Commewijne", "value": "Commewijne"},
+        {"label": "Coronie", "value": "Coronie"},
+        {"label": "Marowijne", "value": "Marowijne"},
+        {"label": "Nickerie", "value": "Nickerie"},
+        {"label": "Para", "value": "Para"},
+        {"label": "Paramaribo", "value": "Paramaribo"},
+        {"label": "Saramacca", "value": "Saramacca"},
+        {"label": "Sipaliwini", "value": "Sipaliwini"},
+        {"label": "Wanica", "value": "Wanica"}
+    ]
+}

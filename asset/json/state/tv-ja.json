@@ -1,0 +1,15 @@
+{
+    "label": "島",
+    "data": [
+        {"label": "島", "value": ""},
+        {"label": "Funafuti", "value": "Funafuti"},
+        {"label": "Nanumanga", "value": "Nanumanga"},
+        {"label": "Nanumea", "value": "Nanumea"},
+        {"label": "Niulakita", "value": "Niulakita"},
+        {"label": "Niutao", "value": "Niutao"},
+        {"label": "Nui", "value": "Nui"},
+        {"label": "Nukufetau", "value": "Nukufetau"},
+        {"label": "Nukulaelae", "value": "Nukulaelae"},
+        {"label": "Vaitupu", "value": "Vaitupu"}
+    ]
+}

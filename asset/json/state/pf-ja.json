@@ -1,0 +1,11 @@
+{
+    "label": "島",
+    "data": [
+        {"label": "島", "value": ""},
+        {"label": "Windward Islands", "value": "Windward Islands"},
+        {"label": "Austral Islands", "value": "Austral Islands"},
+        {"label": "Tuamotu-Gambier", "value": "Tuamotu-Gambier"},
+        {"label": "Leeward Islands", "value": "Leeward Islands"},
+        {"label": "Marquesas Islands", "value": "Marquesas Islands"}
+    ]
+}

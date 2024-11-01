@@ -1,0 +1,28 @@
+{
+    "label": "郡",
+    "data": [
+        {"label": "郡", "value": ""},
+        {"label": "台中市 — Taichung City", "value": "台中市"},
+        {"label": "台北市 — Taipei City", "value": "台北市"},
+        {"label": "台東縣 — Taitung County", "value": "台東縣"},
+        {"label": "台南市 — Tainan City", "value": "台南市"},
+        {"label": "宜蘭縣 — Yilan County", "value": "宜蘭縣"},
+        {"label": "花蓮縣 — Hualien County", "value": "花蓮縣"},
+        {"label": "金門縣 — Kinmen County", "value": "金門縣"},
+        {"label": "南投縣 — Nantou County", "value": "南投縣"},
+        {"label": "屏東縣 — Pingtung County", "value": "屏東縣"},
+        {"label": "苗栗縣 — Miaoli County", "value": "苗栗縣"},
+        {"label": "桃園市 — Taoyuan City", "value": "桃園市"},
+        {"label": "高雄市 — Kaohsiung City", "value": "高雄市"},
+        {"label": "基隆市 — Keelung City", "value": "基隆市"},
+        {"label": "連江縣 — Lienchiang County", "value": "連江縣"},
+        {"label": "雲林縣 — Yunlin County", "value": "雲林縣"},
+        {"label": "新北市 — New Taipei City", "value": "新北市"},
+        {"label": "新竹市 — Hsinchu City", "value": "新竹市"},
+        {"label": "新竹縣 — Hsinchu County", "value": "新竹縣"},
+        {"label": "嘉義市 — Chiayi City", "value": "嘉義市"},
+        {"label": "嘉義縣 — Chiayi County", "value": "嘉義縣"},
+        {"label": "彰化縣 — Changhua County", "value": "彰化縣"},
+        {"label": "澎湖縣 — Penghu County", "value": "澎湖縣"}
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "label": "郡",
+    "data": [
+        {"label": "郡", "value": ""},
+        {"label": "Clarendon", "value": "Clarendon"},
+        {"label": "Hanover", "value": "Hanover"},
+        {"label": "Kingston", "value": "Kingston"},
+        {"label": "Manchester", "value": "Manchester"},
+        {"label": "Portland", "value": "Portland"},
+        {"label": "St. Andrew", "value": "St. Andrew"},
+        {"label": "St. Ann", "value": "St. Ann"},
+        {"label": "St. Catherine", "value": "St. Catherine"},
+        {"label": "St. Elizabeth", "value": "St. Elizabeth"},
+        {"label": "St. James", "value": "St. James"},
+        {"label": "St. Mary", "value": "St. Mary"},
+        {"label": "St. Thomas", "value": "St. Thomas"},
+        {"label": "Trelawny", "value": "Trelawny"},
+        {"label": "Westmoreland", "value": "Westmoreland"}
+    ]
+}

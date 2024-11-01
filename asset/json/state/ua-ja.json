@@ -1,0 +1,33 @@
+{
+    "label": "州",
+    "data": [
+        {"label": "州 (ロシア)", "value": ""},
+        {"label": "Автономна Республіка Крим — Crimea", "value": "Автономна Республіка Крим"},
+        {"label": "Вінницька область — Vinnyts'ka oblast", "value": "Вінницька область"},
+        {"label": "Волинська область — Volyns'ka oblast", "value": "Волинська область"},
+        {"label": "Дніпропетровська область — Dnipropetrovsk oblast", "value": "Дніпропетровська область"},
+        {"label": "Донецька область — Donetsk oblast", "value": "Донецька область"},
+        {"label": "Житомирська область — Zhytomyrs'ka oblast", "value": "Житомирська область"},
+        {"label": "Закарпатська область — Zakarpats'ka oblast", "value": "Закарпатська область"},
+        {"label": "Запорізька область — Zaporiz'ka oblast", "value": "Запорізька область"},
+        {"label": "Івано-Франківська область — Ivano-Frankivs'ka oblast", "value": "Івано-Франківська область"},
+        {"label": "Київ — Kyiv city", "value": "місто Київ"},
+        {"label": "Київська область — Kiev oblast", "value": "Київська область"},
+        {"label": "Кіровоградська область — Kirovohrads'ka oblast", "value": "Кіровоградська область"},
+        {"label": "Луганська область — Luhans'ka oblast", "value": "Луганська область"},
+        {"label": "Львівська область — Lviv oblast", "value": "Львівська область"},
+        {"label": "Миколаївська область — Mykolaivs'ka oblast", "value": "Миколаївська область"},
+        {"label": "Одеська область — Odessa oblast", "value": "Одеська область"},
+        {"label": "Полтавська область — Poltavs'ka oblast", "value": "Полтавська область"},
+        {"label": "Рівненська область — Rivnens'ka oblast", "value": "Рівненська область"},
+        {"label": "Севастополь — Sevastopol' city", "value": "місто Севастополь"},
+        {"label": "Сумська область — Sums'ka oblast", "value": "Сумська область"},
+        {"label": "Тернопільська область — Ternopil's'ka oblast", "value": "Тернопільська область"},
+        {"label": "Харківська область — Kharkiv oblast", "value": "Харківська область"},
+        {"label": "Херсонська область — Khersons'ka oblast", "value": "Херсонська область"},
+        {"label": "Хмельницька область — Khmel'nyts'ka oblast", "value": "Хмельницька область"},
+        {"label": "Черкаська область — Cherkas'ka oblast", "value": "Черкаська область"},
+        {"label": "Чернівецька область — Chernivets'ka oblast", "value": "Чернівецька область"},
+        {"label": "Чернігівська область — Chernihivs'ka oblast", "value": "Чернігівська область"}
+    ]
+}

@@ -1,0 +1,20 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Tashkent", "value": "Tashkent"},
+        {"label": "Andijan Region", "value": "Andijan Region"},
+        {"label": "Bukhara Region", "value": "Bukhara Region"},
+        {"label": "Fergana Region", "value": "Fergana Region"},
+        {"label": "Jizzakh Region", "value": "Jizzakh Region"},
+        {"label": "Namangan Region", "value": "Namangan Region"},
+        {"label": "Navoiy Region", "value": "Navoiy Region"},
+        {"label": "Qashqadaryo Region", "value": "Qashqadaryo Region"},
+        {"label": "Samarqand Region", "value": "Samarqand Region"},
+        {"label": "Sirdaryo Region", "value": "Sirdaryo Region"},
+        {"label": "Surxondaryo Region", "value": "Surxondaryo Region"},
+        {"label": "Tashkent Region", "value": "Tashkent Region"},
+        {"label": "Xorazm Region", "value": "Xorazm Region"},
+        {"label": "Karakalpakstan", "value": "Karakalpakstan"}
+    ]
+}

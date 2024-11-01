@@ -1,0 +1,13 @@
+{
+    "label": "州",
+    "data": [
+        {"label": "州 (ロシア)", "value": ""},
+        {"label": "Brestskaya oblast'", "value": "Brestskaya oblast'"},
+        {"label": "Gomel'skaya oblast'", "value": "Gomel'skaya oblast'"},
+        {"label": "Grodnenskaya oblast'", "value": "Grodnenskaya oblast'"},
+        {"label": "Mogilevskaya oblast'", "value": "Mogilevskaya oblast'"},
+        {"label": "Minskaya oblast'", "value": "Minskaya oblast'"},
+        {"label": "Vitebskaya oblast'", "value": "Vitebskaya oblast'"},
+        {"label": "Gorod Minsk", "value": "Gorod Minsk"}
+    ]
+}

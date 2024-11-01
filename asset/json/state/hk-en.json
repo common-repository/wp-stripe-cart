@@ -1,0 +1,9 @@
+{
+    "label": "Area",
+    "data": [
+        {"label": "Area", "value": ""},
+        {"label": "九龍", "value": "Kowloon"},
+        {"label": "香港島", "value": "Hong Kong Island"},
+        {"label": "新界", "value": "New Territories"}
+    ]
+}

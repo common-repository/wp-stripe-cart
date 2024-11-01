@@ -1,0 +1,28 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "National Capital District", "value": "National Capital District"},
+        {"label": "Central", "value": "Central"},
+        {"label": "Chimbu", "value": "Chimbu"},
+        {"label": "Eastern Highlands", "value": "Eastern Highlands"},
+        {"label": "East New Britain", "value": "East New Britain"},
+        {"label": "East Sepik", "value": "East Sepik"},
+        {"label": "Enga", "value": "Enga"},
+        {"label": "Gulf", "value": "Gulf"},
+        {"label": "Hela", "value": "Hela"},
+        {"label": "Jiwaka", "value": "Jiwaka"},
+        {"label": "Madang", "value": "Madang"},
+        {"label": "Manus", "value": "Manus"},
+        {"label": "Milne Bay", "value": "Milne Bay"},
+        {"label": "Morobe", "value": "Morobe"},
+        {"label": "New Ireland", "value": "New Ireland"},
+        {"label": "Northern", "value": "Northern"},
+        {"label": "West Sepik", "value": "West Sepik"},
+        {"label": "Southern Highlands", "value": "Southern Highlands"},
+        {"label": "Western", "value": "Western"},
+        {"label": "Western Highlands", "value": "Western Highlands"},
+        {"label": "West New Britain", "value": "West New Britain"},
+        {"label": "Bougainville", "value": "Bougainville"}
+    ]
+}

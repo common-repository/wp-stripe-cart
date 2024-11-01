@@ -1,0 +1,17 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "Cabo Delgado", "value": "Cabo Delgado"},
+        {"label": "Cidade de Maputo", "value": "Cidade de Maputo"},
+        {"label": "Gaza", "value": "Gaza"},
+        {"label": "Inhambane", "value": "Inhambane"},
+        {"label": "Manica", "value": "Manica"},
+        {"label": "Maputo", "value": "Maputo"},
+        {"label": "Nampula", "value": "Nampula"},
+        {"label": "Niassa", "value": "Niassa"},
+        {"label": "Sofala", "value": "Sofala"},
+        {"label": "Tete", "value": "Tete"},
+        {"label": "Zambezia", "value": "Zambezia"}
+    ]
+}

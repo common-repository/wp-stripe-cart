@@ -1,0 +1,32 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Municipalidad Metropolitana de Lima", "value": "Municipalidad Metropolitana de Lima"},
+        {"label": "Amazonas", "value": "Amazonas"},
+        {"label": "Ancash", "value": "Ancash"},
+        {"label": "Apurímac", "value": "Apurímac"},
+        {"label": "Arequipa", "value": "Arequipa"},
+        {"label": "Ayacucho", "value": "Ayacucho"},
+        {"label": "Cajamarca", "value": "Cajamarca"},
+        {"label": "Cusco", "value": "Cusco"},
+        {"label": "El Callao", "value": "El Callao"},
+        {"label": "Huancavelica", "value": "Huancavelica"},
+        {"label": "Huánuco", "value": "Huánuco"},
+        {"label": "Ica", "value": "Ica"},
+        {"label": "Junín", "value": "Junín"},
+        {"label": "La Libertad", "value": "La Libertad"},
+        {"label": "Lambayeque", "value": "Lambayeque"},
+        {"label": "Lima", "value": "Lima"},
+        {"label": "Loreto", "value": "Loreto"},
+        {"label": "Madre de Dios", "value": "Madre de Dios"},
+        {"label": "Moquegua", "value": "Moquegua"},
+        {"label": "Pasco", "value": "Pasco"},
+        {"label": "Piura", "value": "Piura"},
+        {"label": "Puno", "value": "Puno"},
+        {"label": "San Martín", "value": "San Martín"},
+        {"label": "Tacna", "value": "Tacna"},
+        {"label": "Tumbes", "value": "Tumbes"},
+        {"label": "Ucayali", "value": "Ucayali"}
+    ]
+}

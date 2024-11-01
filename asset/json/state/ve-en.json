@@ -1,0 +1,31 @@
+{
+    "label": "State",
+    "data": [
+        {"label": "State", "value": ""},
+        {"label": "Amazonas", "value": "Amazonas"},
+        {"label": "Anzoátegui", "value": "Anzoátegui"},
+        {"label": "Apure", "value": "Apure"},
+        {"label": "Aragua", "value": "Aragua"},
+        {"label": "Barinas", "value": "Barinas"},
+        {"label": "Bolívar", "value": "Bolívar"},
+        {"label": "Carabobo", "value": "Carabobo"},
+        {"label": "Cojedes", "value": "Cojedes"},
+        {"label": "Delta Amacuro", "value": "Delta Amacuro"},
+        {"label": "Dependencias Federales", "value": "Dependencias Federales"},
+        {"label": "Distrito Federal", "value": "Distrito Federal"},
+        {"label": "Falcón", "value": "Falcón"},
+        {"label": "Guárico", "value": "Guárico"},
+        {"label": "Lara", "value": "Lara"},
+        {"label": "Mérida", "value": "Mérida"},
+        {"label": "Miranda", "value": "Miranda"},
+        {"label": "Monagas", "value": "Monagas"},
+        {"label": "Nueva Esparta", "value": "Nueva Esparta"},
+        {"label": "Portuguesa", "value": "Portuguesa"},
+        {"label": "Sucre", "value": "Sucre"},
+        {"label": "Táchira", "value": "Táchira"},
+        {"label": "Trujillo", "value": "Trujillo"},
+        {"label": "Vargas", "value": "Vargas"},
+        {"label": "Yaracuy", "value": "Yaracuy"},
+        {"label": "Zulia", "value": "Zulia"}
+    ]
+}

@@ -1,0 +1,13 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "Alajuela", "value": "Alajuela"},
+        {"label": "Cartago", "value": "Cartago"},
+        {"label": "Guanacaste", "value": "Guanacaste"},
+        {"label": "Heredia", "value": "Heredia"},
+        {"label": "Limón", "value": "Limón"},
+        {"label": "Puntarenas", "value": "Puntarenas"},
+        {"label": "San José", "value": "San José"}
+    ]
+}

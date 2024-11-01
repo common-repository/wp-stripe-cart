@@ -1,0 +1,2240 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: WP STRIPE CART\n"
+"POT-Creation-Date: 2020-12-02 17:54+0900\n"
+"PO-Revision-Date: 2020-12-02 17:58+0900\n"
+"Last-Translator: \n"
+"Language-Team: \n"
+"Language: ja\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 2.4.2\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Flags-xgettext: --add-comments=translators:\n"
+"X-Poedit-WPHeader: wp-stripe-cart.php\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-KeywordsList: __;_e;_n:1,2;_x:1,2c;_ex:1,2c;_nx:4c,1,2;esc_attr__;"
+"esc_attr_e;esc_attr_x:1,2c;esc_html__;esc_html_e;esc_html_x:1,2c;_n_noop:1,2;"
+"_nx_noop:3c,1,2;__ngettext_noop:1,2\n"
+"X-Poedit-SearchPath-0: .\n"
+"X-Poedit-SearchPathExcluded-0: *.min.js\n"
+"X-Poedit-SearchPathExcluded-1: vendor\n"
+"X-Poedit-SearchPathExcluded-2: node_modules\n"
+
+#: class.wp-stripe-cart-list-table.php:99
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:99
+#: svn/trunk/class.wp-stripe-cart-list-table.php:99
+msgctxt "column name"
+msgid "Customer Name"
+msgstr "顧客名"
+
+#: class.wp-stripe-cart-list-table.php:100
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:100
+#: svn/trunk/class.wp-stripe-cart-list-table.php:100
+msgctxt "column name"
+msgid "Customer Email"
+msgstr "メールアドレス"
+
+#: class.wp-stripe-cart-list-table.php:101
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:101
+#: svn/trunk/class.wp-stripe-cart-list-table.php:101
+msgctxt "column name"
+msgid "Total Amount"
+msgstr "合計"
+
+#: class.wp-stripe-cart-list-table.php:102
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:102
+#: svn/trunk/class.wp-stripe-cart-list-table.php:102
+msgctxt "column name"
+msgid "Order Date"
+msgstr "注文日"
+
+#: class.wp-stripe-cart-list-table.php:247
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:247
+#: svn/trunk/class.wp-stripe-cart-list-table.php:247
+msgid "Order detail"
+msgstr "注文詳細"
+
+#: class.wp-stripe-cart-list-table.php:254
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:254
+#: svn/trunk/class.wp-stripe-cart-list-table.php:254
+msgid "Unit price"
+msgstr "単価"
+
+#: class.wp-stripe-cart-list-table.php:255 class.wp-stripe-cart-setting.php:602
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:255
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:591
+#: svn/tags/1.0.0/template/cart.php:43
+#: svn/trunk/class.wp-stripe-cart-list-table.php:255
+#: svn/trunk/class.wp-stripe-cart-setting.php:591
+#: svn/trunk/template/cart.php:43 template/cart.php:43
+msgid "Quantity"
+msgstr "数量"
+
+#: class.wp-stripe-cart-list-table.php:261
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:261
+#: svn/trunk/class.wp-stripe-cart-list-table.php:261
+msgid "Shipping address"
+msgstr "配送先住所"
+
+#: class.wp-stripe-cart-list-table.php:270
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:270
+#: svn/trunk/class.wp-stripe-cart-list-table.php:270
+msgid "Payment info"
+msgstr "お支払い情報"
+
+#: class.wp-stripe-cart-list-table.php:272
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:272
+#: svn/tags/1.0.0/template/cart.php:12 svn/tags/1.0.0/template/checkout.php:53
+#: svn/trunk/class.wp-stripe-cart-list-table.php:272
+#: svn/trunk/template/cart.php:12 svn/trunk/template/checkout.php:53
+#: template/cart.php:12 template/checkout.php:53
+msgid "Subtotal"
+msgstr "小計"
+
+#: class.wp-stripe-cart-list-table.php:273 class.wp-stripe-cart-setting.php:374
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:273
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:363
+#: svn/tags/1.0.0/template/cart.php:16 svn/tags/1.0.0/template/checkout.php:57
+#: svn/trunk/class.wp-stripe-cart-list-table.php:273
+#: svn/trunk/class.wp-stripe-cart-setting.php:363
+#: svn/trunk/template/cart.php:16 svn/trunk/template/checkout.php:57
+#: template/cart.php:16 template/checkout.php:57
+msgid "Tax"
+msgstr "消費税"
+
+#: class.wp-stripe-cart-list-table.php:274 class.wp-stripe-cart-setting.php:382
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:274
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:371
+#: svn/tags/1.0.0/template/cart.php:21 svn/tags/1.0.0/template/checkout.php:62
+#: svn/trunk/class.wp-stripe-cart-list-table.php:274
+#: svn/trunk/class.wp-stripe-cart-setting.php:371
+#: svn/trunk/template/cart.php:21 svn/trunk/template/checkout.php:62
+#: template/cart.php:21 template/checkout.php:62
+msgid "Shipping"
+msgstr "送料設定"
+
+#: class.wp-stripe-cart-list-table.php:275
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:275
+#: svn/trunk/class.wp-stripe-cart-list-table.php:275
+msgid "Total"
+msgstr "合計"
+
+#. translators: %s: Post title.
+#: class.wp-stripe-cart-list-table.php:346
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:346
+#: svn/trunk/class.wp-stripe-cart-list-table.php:346
+#, php-format
+msgid "Select %s"
+msgstr "%s を選択"
+
+#. translators: %s: Post title.
+#: class.wp-stripe-cart-list-table.php:356
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:356
+#: svn/trunk/class.wp-stripe-cart-list-table.php:356
+#, php-format
+msgid "&#8220;%s&#8221; is locked"
+msgstr "&#8220;%s&#8221; はロックされています"
+
+#: class.wp-stripe-cart-list-table.php:468
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:468
+#: svn/trunk/class.wp-stripe-cart-list-table.php:468
+msgid "View/Hide Order Detail"
+msgstr "注文の詳細の表示/非表示"
+
+#: class.wp-stripe-cart-list-table.php:474
+#: svn/tags/1.0.0/class.wp-stripe-cart-list-table.php:474
+#: svn/trunk/class.wp-stripe-cart-list-table.php:474
+msgid "Stripe Payment Detail"
+msgstr "STRIPE支払情報"
+
+#: class.wp-stripe-cart-orders.php:8
+#: svn/tags/1.0.0/class.wp-stripe-cart-orders.php:8
+#: svn/trunk/class.wp-stripe-cart-orders.php:8
+msgid "Search orders"
+msgstr "注文の検索"
+
+#: class.wp-stripe-cart-orders.php:12
+#: svn/tags/1.0.0/class.wp-stripe-cart-orders.php:12
+#: svn/trunk/class.wp-stripe-cart-orders.php:12
+msgctxt "post type general name"
+msgid "Orders"
+msgstr "注文"
+
+#: class.wp-stripe-cart-orders.php:49
+#: svn/tags/1.0.0/class.wp-stripe-cart-orders.php:49
+#: svn/tags/1.0.0/wp-stripe-cart.php:132
+#: svn/trunk/class.wp-stripe-cart-orders.php:49
+#: svn/trunk/wp-stripe-cart.php:132 wp-stripe-cart.php:132
+msgid "Order - WP Stripe Cart"
+msgstr "注文 - WP Stripe Cart"
+
+#: class.wp-stripe-cart-orders.php:52 class.wp-stripe-cart-setting.php:30
+msgid "Get a WP Stripe Cart White Label Add-on"
+msgstr "WP Stripe Cart カスタマイズアドオン"
+
+#: class.wp-stripe-cart-orders.php:54 class.wp-stripe-cart-setting.php:32
+msgid "Enable your own templates"
+msgstr "独自のテンプレートが使用できます"
+
+#: class.wp-stripe-cart-orders.php:54 class.wp-stripe-cart-setting.php:32
+msgid "Fit to your website design!"
+msgstr "WP Stripe Cartをウェブサイトのデザインに合わせることができます。"
+
+#: class.wp-stripe-cart-orders.php:55 class.wp-stripe-cart-setting.php:33
+msgid "Remove \"Powered by\" attribute"
+msgstr "“Powered by” のリンク非表示"
+
+#: class.wp-stripe-cart-orders.php:55 class.wp-stripe-cart-setting.php:33
+msgid "So doesn't harm your brand!"
+msgstr "あなたのブランドイメージを損ねることがなくなります。"
+
+#: class.wp-stripe-cart-orders.php:57 class.wp-stripe-cart-setting.php:35
+msgid "https://wp-stripe-cart.metrocode.co/en/"
+msgstr "https://wp-stripe-cart.metrocode.co/"
+
+#: class.wp-stripe-cart-orders.php:57 class.wp-stripe-cart-setting.php:35
+msgid "Get WP Stripe Cart White Label Add-on Now"
+msgstr "WP Stripe Cart カスタマイズアドオンを入手"
+
+#. translators: %s: Search query.
+#: class.wp-stripe-cart-orders.php:81
+#: svn/tags/1.0.0/class.wp-stripe-cart-orders.php:71
+#: svn/trunk/class.wp-stripe-cart-orders.php:71
+#, php-format
+msgid "Search results for &#8220;%s&#8221;"
+msgstr "&#8220;%s&#8221;の検索結果"
+
+#: class.wp-stripe-cart-setting.php:26
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:26
+#: svn/tags/1.0.0/wp-stripe-cart.php:142
+#: svn/trunk/class.wp-stripe-cart-setting.php:26
+#: svn/trunk/wp-stripe-cart.php:142 wp-stripe-cart.php:142
+msgid "Setting - WP Stripe Cart"
+msgstr "設定 - WP Stripe Cart"
+
+#: class.wp-stripe-cart-setting.php:56
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:45
+#: svn/trunk/class.wp-stripe-cart-setting.php:45
+msgid "Environment"
+msgstr "環境設定"
+
+#: class.wp-stripe-cart-setting.php:57
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:46
+#: svn/trunk/class.wp-stripe-cart-setting.php:46
+msgid "Shipping & Tax"
+msgstr "配送料と税設定"
+
+#: class.wp-stripe-cart-setting.php:58
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:47
+#: svn/trunk/class.wp-stripe-cart-setting.php:47
+msgid "Messages"
+msgstr "メッセージ"
+
+#: class.wp-stripe-cart-setting.php:65
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:54
+#: svn/trunk/class.wp-stripe-cart-setting.php:54
+msgid "Cart mode"
+msgstr "カート設定"
+
+#: class.wp-stripe-cart-setting.php:66
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:55
+#: svn/trunk/class.wp-stripe-cart-setting.php:55
+msgid ""
+"Please make sure set to <strong>Live</strong> before releasing your site to "
+"public."
+msgstr "サイトを公開する前に、必ず <strong>本番</strong> に設定してください。"
+
+#: class.wp-stripe-cart-setting.php:69
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:58
+#: svn/trunk/class.wp-stripe-cart-setting.php:58
+msgid "Test"
+msgstr "テスト"
+
+#: class.wp-stripe-cart-setting.php:73
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:62
+#: svn/trunk/class.wp-stripe-cart-setting.php:62
+msgid "Live"
+msgstr "本番"
+
+#: class.wp-stripe-cart-setting.php:77 class.wp-stripe-cart-setting.php:78
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:66
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:67
+#: svn/trunk/class.wp-stripe-cart-setting.php:66
+#: svn/trunk/class.wp-stripe-cart-setting.php:67
+msgid "API keys"
+msgstr "APIキー"
+
+#: class.wp-stripe-cart-setting.php:78
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:67
+#: svn/trunk/class.wp-stripe-cart-setting.php:67
+#, php-format
+msgid "Get %s from STRIPE dashboard."
+msgstr "STRIPE ダッシュボードから%sを取得します。"
+
+#: class.wp-stripe-cart-setting.php:79 class.wp-stripe-cart-setting.php:518
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:68
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:507
+#: svn/trunk/class.wp-stripe-cart-setting.php:68
+#: svn/trunk/class.wp-stripe-cart-setting.php:507
+msgid "Test Keys"
+msgstr "テストキー"
+
+#: class.wp-stripe-cart-setting.php:81 class.wp-stripe-cart-setting.php:90
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:70
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:79
+#: svn/trunk/class.wp-stripe-cart-setting.php:70
+#: svn/trunk/class.wp-stripe-cart-setting.php:79
+msgid "Publishable key"
+msgstr "公開キー"
+
+#: class.wp-stripe-cart-setting.php:85 class.wp-stripe-cart-setting.php:94
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:74
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:83
+#: svn/trunk/class.wp-stripe-cart-setting.php:74
+#: svn/trunk/class.wp-stripe-cart-setting.php:83
+msgid "Secret key"
+msgstr "シークレットキー"
+
+#: class.wp-stripe-cart-setting.php:88 class.wp-stripe-cart-setting.php:524
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:77
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:513
+#: svn/trunk/class.wp-stripe-cart-setting.php:77
+#: svn/trunk/class.wp-stripe-cart-setting.php:513
+msgid "Live Keys"
+msgstr "本番キー"
+
+#: class.wp-stripe-cart-setting.php:100
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:89
+#: svn/trunk/class.wp-stripe-cart-setting.php:89
+msgid "Payment Description"
+msgstr "明細書表記"
+
+#: class.wp-stripe-cart-setting.php:101
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:90
+#: svn/trunk/class.wp-stripe-cart-setting.php:90
+msgid ""
+"Payment description will appear in receipt email and user's mobile payment "
+"screen. \n"
+"\t\t\t\t\t\t\tAnd also displayed in Stripe Payment dashboard.\n"
+"\t\t\t\t\t\t\tIt is advised to reflects your doing business name. i.e. Shop "
+"Name.\n"
+"\t\t\t\t\t\t\tIf you leave this field blank your domain name will be used."
+msgstr ""
+"領収書メールとユーザーのモバイル決済画面に、支払いに対する説明文が表示されま"
+"す。\n"
+"\t\t\t\t\t\t\tSTRIPEの支払ダッシュボードにも表示されます。\n"
+"\t\t\t\t\t\t\tビジネス名を表示することをお勧めします。ショップ名や屋号な"
+"ど。\n"
+"\t\t\t\t\t\t\tこのフィールドを空白にすると、ドメイン名が使用されます。"
+
+#: class.wp-stripe-cart-setting.php:111
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:100
+#: svn/trunk/class.wp-stripe-cart-setting.php:100
+msgid "Filter Countries"
+msgstr "対象国"
+
+#: class.wp-stripe-cart-setting.php:112
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:101
+#: svn/trunk/class.wp-stripe-cart-setting.php:101
+msgid ""
+"Please list Two-letter country code (<a href=\"https://en.wikipedia.org/wiki/"
+"ISO_3166-1_alpha-2\" target=\"_blank\">ISO 3166-1 alpha-2</a>). in comma "
+"separated format, if you need to filter country.\n"
+"\t\t\t\t\t\t\ti.e. JP,US,GB\n"
+"\t\t\t\t\t\t\tPlease note that any country not listed in default will be "
+"ignored.\n"
+"\t\t\t\t\t\t\t\n"
+"\t\t\t\t\t\t\tDefault list of country is:\n"
+"\t\t\t\t\t\t\tIS, IE, AZ, AF, US, AE, DZ, AR, AW, AL, AM, AI, AO, AG, AD, "
+"YE, GB, IL, IT, IQ, IN, ID, WF, UG, UA, UZ, UY, EC, EG, EE, SZ, ET, ER, SV, "
+"AU, AT, AX, OM, NL, BQ, GH, CV, GG, GY, KZ, QA, CA, GA, CM, GM, KH, GN, GW, "
+"CY, CW, GR, KI, KG, GT, GP, GU, KW, CK, GL, GD, HR, KY, KE, CI, CR, XK, KM, "
+"CO, CG, CD, SA, GS, WS, BL, MF, ST, ZM, PM, SM, SL, DJ, GI, JE, JM, GE, SG, "
+"SX, ZW, CH, SE, SJ, ES, SR, LK, SK, SI, SC, SN, RS, KN, VC, SH, LC, SO, SB, "
+"TC, TH, TJ, TZ, CZ, TD, TN, CL, TV, DK, DE, TG, TK, DO, DM, TA, TT, TM, TR, "
+"TO, NG, NR, NA, NU, NI, NE, NC, NZ, NP, NO, BH, HT, PK, VA, PA, VU, BS, PG, "
+"BM, PY, BB, PS, HU, BD, PN, FJ, PH, FI, BT, BV, PR, FO, FK, BR, FR, BG, BF, "
+"BN, BI, VN, BJ, VE, BY, BZ, PE, BE, PL, BA, BW, BO, PT, HN, MG, YT, MW, ML, "
+"MT, MQ, MY, IM, MM, MX, MU, MR, MZ, MC, MV, MD, MA, MN, ME, MS, JO, LA, LV, "
+"LT, LY, LI, LR, RO, LU, RW, LS, LB, RE, RU, IO, VG, KR, EH, GQ, TW, CF, MO, "
+"HK, CN, TL, ZA, SS, AQ, JP, GF, PF, TF, MK\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+"2 文字の国コード<a href=\"https://en.wikipedia.org/wiki/ISO_3166-1_alpha-2\" "
+"target=\"_blank\">(ISO 3166-1 アルファ-2)</a>を入力してください。国をフィルタ"
+"リングする必要がある場合は、カンマ区切り形式で指定します。\n"
+"\t\t\t\t\t\t\tすなわち、JP,US,GB\n"
+"\t\t\t\t\t\t\t既定のリストにない国は無視されますのでご注意ください。\n"
+"\t\t\t\t\t\t\t\n"
+"国の既定のリストは次のとおりです。\n"
+"\t\t\t\t\t\t\tIS, IE, AZ, AF, US, AE, DZ, AR, AW, AL, AM, AI, AO, AG, AD, "
+"YE, GB, IL, IT, IQ, IN, ID, WF, UG, UA, UZ, UY, EC, EG, EE, SZ, ET, ER, SV, "
+"AU, AT, AX, OM, NL, BQ, GH, CV, GG, GY, KZ, QA, CA, GA, CM, GM, KH, GN, GW, "
+"CY, CW, GR, KI, KG, GT, GP, GU, KW, CK, GL, GD, HR, KY, KE, CI, CR, XK, KM, "
+"CO, CG, CD, SA, GS, WS, BL, MF, ST, ZM, PM, SM, SL, DJ, GI, JE, JM, GE, SG, "
+"SX, ZW, CH, SE, SJ, ES, SR, LK, SK, SI, SC, SN, RS, KN, VC, SH, LC, SO, SB, "
+"TC, TH, TJ, TZ, CZ, TD, TN, CL, TV, DK, DE, TG, TK, DO, DM, TA, TT, TM, TR, "
+"TO, NG, NR, NA, NU, NI, NE, NC, NZ, NP, NO, BH, HT, PK, VA, PA, VU, BS, PG, "
+"BM, PY, BB, PS, HU, BD, PN, FJ, PH, FI, BT, BV, PR, FO, FK, BR, FR, BG, BF, "
+"BN, BI, VN, BJ, VE, BY, BZ, PE, BE, PL, BA, BW, BO, PT, HN, MG, YT, MW, ML, "
+"MT, MQ, MY, IM, MM, MX, MU, MR, MZ, MC, MV, MD, MA, MN, ME, MS, JO, LA, LV, "
+"LT, LY, LI, LR, RO, LU, RW, LS, LB, RE, RU, IO, VG, KR, EH, GQ, TW, CF, MO, "
+"HK, CN, TL, ZA, SS, AQ, JP, GF, PF, TF, MK "
+
+#: class.wp-stripe-cart-setting.php:120
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:109
+#: svn/trunk/class.wp-stripe-cart-setting.php:109
+msgid "Country list"
+msgstr "国リスト"
+
+#: class.wp-stripe-cart-setting.php:126
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:115
+#: svn/trunk/class.wp-stripe-cart-setting.php:115
+msgid "Default Country"
+msgstr "デフォルトの国"
+
+#: class.wp-stripe-cart-setting.php:127
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:116
+#: svn/trunk/class.wp-stripe-cart-setting.php:116
+msgid "Please select default country to be checked in checkout form."
+msgstr "チェックアウト フォームで表示するデフォルトの国を選択してください。"
+
+#: class.wp-stripe-cart-setting.php:130
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:119
+#: svn/trunk/class.wp-stripe-cart-setting.php:119
+msgid "Please select"
+msgstr "選択してください"
+
+#: class.wp-stripe-cart-setting.php:131
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:120
+#: svn/trunk/class.wp-stripe-cart-setting.php:120
+msgid "Afghanistan"
+msgstr "アフガニスタン"
+
+#: class.wp-stripe-cart-setting.php:132
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:121
+#: svn/trunk/class.wp-stripe-cart-setting.php:121
+msgid "Åland Islands"
+msgstr "オーランド諸島"
+
+#: class.wp-stripe-cart-setting.php:133
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:122
+#: svn/trunk/class.wp-stripe-cart-setting.php:122
+msgid "Albania"
+msgstr "アルバニア"
+
+#: class.wp-stripe-cart-setting.php:134
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:123
+#: svn/trunk/class.wp-stripe-cart-setting.php:123
+msgid "Algeria"
+msgstr "アルジェリア"
+
+#: class.wp-stripe-cart-setting.php:135
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:124
+#: svn/trunk/class.wp-stripe-cart-setting.php:124
+msgid "Andorra"
+msgstr "アンドラ"
+
+#: class.wp-stripe-cart-setting.php:136
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:125
+#: svn/trunk/class.wp-stripe-cart-setting.php:125
+msgid "Angola"
+msgstr "アンゴラ"
+
+#: class.wp-stripe-cart-setting.php:137
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:126
+#: svn/trunk/class.wp-stripe-cart-setting.php:126
+msgid "Anguilla"
+msgstr "アンギラ"
+
+#: class.wp-stripe-cart-setting.php:138
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:127
+#: svn/trunk/class.wp-stripe-cart-setting.php:127
+msgid "Antarctica"
+msgstr "南極大陸"
+
+#: class.wp-stripe-cart-setting.php:139
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:128
+#: svn/trunk/class.wp-stripe-cart-setting.php:128
+msgid "Antigua &amp; Barbuda"
+msgstr "アンティグア・バーブーダ"
+
+#: class.wp-stripe-cart-setting.php:140
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:129
+#: svn/trunk/class.wp-stripe-cart-setting.php:129
+msgid "Argentina"
+msgstr "アルゼンチン"
+
+#: class.wp-stripe-cart-setting.php:141
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:130
+#: svn/trunk/class.wp-stripe-cart-setting.php:130
+msgid "Armenia"
+msgstr "アルメニア"
+
+#: class.wp-stripe-cart-setting.php:142
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:131
+#: svn/trunk/class.wp-stripe-cart-setting.php:131
+msgid "Aruba"
+msgstr "アルーバ"
+
+#: class.wp-stripe-cart-setting.php:143
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:132
+#: svn/trunk/class.wp-stripe-cart-setting.php:132
+msgid "Australia"
+msgstr "オーストラリア"
+
+#: class.wp-stripe-cart-setting.php:144
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:133
+#: svn/trunk/class.wp-stripe-cart-setting.php:133
+msgid "Austria"
+msgstr "オーストリア"
+
+#: class.wp-stripe-cart-setting.php:145
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:134
+#: svn/trunk/class.wp-stripe-cart-setting.php:134
+msgid "Azerbaijan"
+msgstr "アゼルバイジャン"
+
+#: class.wp-stripe-cart-setting.php:146
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:135
+#: svn/trunk/class.wp-stripe-cart-setting.php:135
+msgid "Bahamas"
+msgstr "バハマ"
+
+#: class.wp-stripe-cart-setting.php:147
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:136
+#: svn/trunk/class.wp-stripe-cart-setting.php:136
+msgid "Bahrain"
+msgstr "バーレーン"
+
+#: class.wp-stripe-cart-setting.php:148
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:137
+#: svn/trunk/class.wp-stripe-cart-setting.php:137
+msgid "Bangladesh"
+msgstr "バングラデシュ"
+
+#: class.wp-stripe-cart-setting.php:149
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:138
+#: svn/trunk/class.wp-stripe-cart-setting.php:138
+msgid "Barbados"
+msgstr "バルバドス"
+
+#: class.wp-stripe-cart-setting.php:150
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:139
+#: svn/trunk/class.wp-stripe-cart-setting.php:139
+msgid "Belarus"
+msgstr "ベラルーシ"
+
+#: class.wp-stripe-cart-setting.php:151
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:140
+#: svn/trunk/class.wp-stripe-cart-setting.php:140
+msgid "Belgium"
+msgstr "ベルギー"
+
+#: class.wp-stripe-cart-setting.php:152
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:141
+#: svn/trunk/class.wp-stripe-cart-setting.php:141
+msgid "Belize"
+msgstr "ベリーズ"
+
+#: class.wp-stripe-cart-setting.php:153
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:142
+#: svn/trunk/class.wp-stripe-cart-setting.php:142
+msgid "Benin"
+msgstr "ベナン"
+
+#: class.wp-stripe-cart-setting.php:154
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:143
+#: svn/trunk/class.wp-stripe-cart-setting.php:143
+msgid "Bermuda"
+msgstr "バミューダ"
+
+#: class.wp-stripe-cart-setting.php:155
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:144
+#: svn/trunk/class.wp-stripe-cart-setting.php:144
+msgid "Bhutan"
+msgstr "ブータン"
+
+#: class.wp-stripe-cart-setting.php:156
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:145
+#: svn/trunk/class.wp-stripe-cart-setting.php:145
+msgid "Bolivia"
+msgstr "ボリビア"
+
+#: class.wp-stripe-cart-setting.php:157
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:146
+#: svn/trunk/class.wp-stripe-cart-setting.php:146
+msgid "Bosnia &amp; Herzegovina"
+msgstr "ボスニア・ヘルツェゴビナ"
+
+#: class.wp-stripe-cart-setting.php:158
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:147
+#: svn/trunk/class.wp-stripe-cart-setting.php:147
+msgid "Botswana"
+msgstr "ボツワナ"
+
+#: class.wp-stripe-cart-setting.php:159
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:148
+#: svn/trunk/class.wp-stripe-cart-setting.php:148
+msgid "Bouvet Island"
+msgstr "ブーベ島"
+
+#: class.wp-stripe-cart-setting.php:160
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:149
+#: svn/trunk/class.wp-stripe-cart-setting.php:149
+msgid "Brazil"
+msgstr "ブラジル"
+
+#: class.wp-stripe-cart-setting.php:161
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:150
+#: svn/trunk/class.wp-stripe-cart-setting.php:150
+msgid "British Indian Ocean Territory"
+msgstr "イギリス領インド洋地域"
+
+#: class.wp-stripe-cart-setting.php:162
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:151
+#: svn/trunk/class.wp-stripe-cart-setting.php:151
+msgid "British Virgin Islands"
+msgstr "英領ヴァージン諸島"
+
+#: class.wp-stripe-cart-setting.php:163
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:152
+#: svn/trunk/class.wp-stripe-cart-setting.php:152
+msgid "Brunei"
+msgstr "ブルネイ"
+
+#: class.wp-stripe-cart-setting.php:164
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:153
+#: svn/trunk/class.wp-stripe-cart-setting.php:153
+msgid "Bulgaria"
+msgstr "ブルガリア"
+
+#: class.wp-stripe-cart-setting.php:165
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:154
+#: svn/trunk/class.wp-stripe-cart-setting.php:154
+msgid "Burkina Faso"
+msgstr "ブルキナファソ"
+
+#: class.wp-stripe-cart-setting.php:166
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:155
+#: svn/trunk/class.wp-stripe-cart-setting.php:155
+msgid "Burundi"
+msgstr "ブルンジ"
+
+#: class.wp-stripe-cart-setting.php:167
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:156
+#: svn/trunk/class.wp-stripe-cart-setting.php:156
+msgid "Cambodia"
+msgstr "カンボジア"
+
+#: class.wp-stripe-cart-setting.php:168
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:157
+#: svn/trunk/class.wp-stripe-cart-setting.php:157
+msgid "Cameroon"
+msgstr "カメルーン"
+
+#: class.wp-stripe-cart-setting.php:169
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:158
+#: svn/trunk/class.wp-stripe-cart-setting.php:158
+msgid "Canada"
+msgstr "カナダ"
+
+#: class.wp-stripe-cart-setting.php:170
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:159
+#: svn/trunk/class.wp-stripe-cart-setting.php:159
+msgid "Cape Verde"
+msgstr "カーボベルデ"
+
+#: class.wp-stripe-cart-setting.php:171
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:160
+#: svn/trunk/class.wp-stripe-cart-setting.php:160
+msgid "Caribbean Netherlands"
+msgstr "(ボネール、シント・ユースタティウス、サバ) の総称"
+
+#: class.wp-stripe-cart-setting.php:172
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:161
+#: svn/trunk/class.wp-stripe-cart-setting.php:161
+msgid "Cayman Islands"
+msgstr "ケイマン諸島"
+
+#: class.wp-stripe-cart-setting.php:173
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:162
+#: svn/trunk/class.wp-stripe-cart-setting.php:162
+msgid "Central African Republic"
+msgstr "中央アフリカ共和国"
+
+#: class.wp-stripe-cart-setting.php:174
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:163
+#: svn/trunk/class.wp-stripe-cart-setting.php:163
+msgid "Chad"
+msgstr "チャド"
+
+#: class.wp-stripe-cart-setting.php:175
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:164
+#: svn/trunk/class.wp-stripe-cart-setting.php:164
+msgid "Chile"
+msgstr "チリ"
+
+#: class.wp-stripe-cart-setting.php:176
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:165
+#: svn/trunk/class.wp-stripe-cart-setting.php:165
+msgid "China"
+msgstr "中国"
+
+#: class.wp-stripe-cart-setting.php:177
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:166
+#: svn/trunk/class.wp-stripe-cart-setting.php:166
+msgid "Colombia"
+msgstr "コロンビア"
+
+#: class.wp-stripe-cart-setting.php:178
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:167
+#: svn/trunk/class.wp-stripe-cart-setting.php:167
+msgid "Comoros"
+msgstr "コモロ"
+
+#: class.wp-stripe-cart-setting.php:179
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:168
+#: svn/trunk/class.wp-stripe-cart-setting.php:168
+msgid "Congo - Brazzaville"
+msgstr "コンゴ - ブラザビル"
+
+#: class.wp-stripe-cart-setting.php:180
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:169
+#: svn/trunk/class.wp-stripe-cart-setting.php:169
+msgid "Congo - Kinshasa"
+msgstr "コンゴ - キンシャサ"
+
+#: class.wp-stripe-cart-setting.php:181
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:170
+#: svn/trunk/class.wp-stripe-cart-setting.php:170
+msgid "Cook Islands"
+msgstr "クック諸島"
+
+#: class.wp-stripe-cart-setting.php:182
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:171
+#: svn/trunk/class.wp-stripe-cart-setting.php:171
+msgid "Costa Rica"
+msgstr "コスタリカ"
+
+#: class.wp-stripe-cart-setting.php:183
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:172
+#: svn/trunk/class.wp-stripe-cart-setting.php:172
+msgid "Côte d’Ivoire"
+msgstr "コートジボワール"
+
+#: class.wp-stripe-cart-setting.php:184
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:173
+#: svn/trunk/class.wp-stripe-cart-setting.php:173
+msgid "Croatia"
+msgstr "クロアチア"
+
+#: class.wp-stripe-cart-setting.php:185
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:174
+#: svn/trunk/class.wp-stripe-cart-setting.php:174
+msgid "Curaçao"
+msgstr "キュラソー島"
+
+#: class.wp-stripe-cart-setting.php:186
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:175
+#: svn/trunk/class.wp-stripe-cart-setting.php:175
+msgid "Cyprus"
+msgstr "キプロス"
+
+#: class.wp-stripe-cart-setting.php:187
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:176
+#: svn/trunk/class.wp-stripe-cart-setting.php:176
+msgid "Czechia"
+msgstr "チェチア"
+
+#: class.wp-stripe-cart-setting.php:188
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:177
+#: svn/trunk/class.wp-stripe-cart-setting.php:177
+msgid "Denmark"
+msgstr "デンマーク"
+
+#: class.wp-stripe-cart-setting.php:189
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:178
+#: svn/trunk/class.wp-stripe-cart-setting.php:178
+msgid "Djibouti"
+msgstr "ジブチ"
+
+#: class.wp-stripe-cart-setting.php:190
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:179
+#: svn/trunk/class.wp-stripe-cart-setting.php:179
+msgid "Dominica"
+msgstr "ドミニカ"
+
+#: class.wp-stripe-cart-setting.php:191
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:180
+#: svn/trunk/class.wp-stripe-cart-setting.php:180
+msgid "Dominican Republic"
+msgstr "ドミニカ共和国"
+
+#: class.wp-stripe-cart-setting.php:192
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:181
+#: svn/trunk/class.wp-stripe-cart-setting.php:181
+msgid "Ecuador"
+msgstr "エクアドル"
+
+#: class.wp-stripe-cart-setting.php:193
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:182
+#: svn/trunk/class.wp-stripe-cart-setting.php:182
+msgid "Egypt"
+msgstr "エジプト"
+
+#: class.wp-stripe-cart-setting.php:194
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:183
+#: svn/trunk/class.wp-stripe-cart-setting.php:183
+msgid "El Salvador"
+msgstr "エルサルバドル"
+
+#: class.wp-stripe-cart-setting.php:195
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:184
+#: svn/trunk/class.wp-stripe-cart-setting.php:184
+msgid "Equatorial Guinea"
+msgstr "赤道ギニア"
+
+#: class.wp-stripe-cart-setting.php:196
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:185
+#: svn/trunk/class.wp-stripe-cart-setting.php:185
+msgid "Eritrea"
+msgstr "エリトリア"
+
+#: class.wp-stripe-cart-setting.php:197
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:186
+#: svn/trunk/class.wp-stripe-cart-setting.php:186
+msgid "Estonia"
+msgstr "エストニア"
+
+#: class.wp-stripe-cart-setting.php:198
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:187
+#: svn/trunk/class.wp-stripe-cart-setting.php:187
+msgid "Eswatini"
+msgstr "エスワティニ"
+
+#: class.wp-stripe-cart-setting.php:199
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:188
+#: svn/trunk/class.wp-stripe-cart-setting.php:188
+msgid "Ethiopia"
+msgstr "エチオピア"
+
+#: class.wp-stripe-cart-setting.php:200
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:189
+#: svn/trunk/class.wp-stripe-cart-setting.php:189
+msgid "Falkland Islands"
+msgstr "フォークランド諸島"
+
+#: class.wp-stripe-cart-setting.php:201
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:190
+#: svn/trunk/class.wp-stripe-cart-setting.php:190
+msgid "Faroe Islands"
+msgstr "フェロー諸島"
+
+#: class.wp-stripe-cart-setting.php:202
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:191
+#: svn/trunk/class.wp-stripe-cart-setting.php:191
+msgid "Fiji"
+msgstr "フィジー"
+
+#: class.wp-stripe-cart-setting.php:203
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:192
+#: svn/trunk/class.wp-stripe-cart-setting.php:192
+msgid "Finland"
+msgstr "フィンランド"
+
+#: class.wp-stripe-cart-setting.php:204
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:193
+#: svn/trunk/class.wp-stripe-cart-setting.php:193
+msgid "France"
+msgstr "フランス"
+
+#: class.wp-stripe-cart-setting.php:205
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:194
+#: svn/trunk/class.wp-stripe-cart-setting.php:194
+msgid "French Guiana"
+msgstr "フランス領ギアナ"
+
+#: class.wp-stripe-cart-setting.php:206
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:195
+#: svn/trunk/class.wp-stripe-cart-setting.php:195
+msgid "French Polynesia"
+msgstr "フランス領ポリネシア"
+
+#: class.wp-stripe-cart-setting.php:207
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:196
+#: svn/trunk/class.wp-stripe-cart-setting.php:196
+msgid "French Southern Territories"
+msgstr "フランス領南方・南極地域"
+
+#: class.wp-stripe-cart-setting.php:208
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:197
+#: svn/trunk/class.wp-stripe-cart-setting.php:197
+msgid "Gabon"
+msgstr "ガボン"
+
+#: class.wp-stripe-cart-setting.php:209
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:198
+#: svn/trunk/class.wp-stripe-cart-setting.php:198
+msgid "Gambia"
+msgstr "ガンビア"
+
+#: class.wp-stripe-cart-setting.php:210
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:199
+#: svn/trunk/class.wp-stripe-cart-setting.php:199
+msgid "Georgia"
+msgstr "ジョージア"
+
+#: class.wp-stripe-cart-setting.php:211
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:200
+#: svn/trunk/class.wp-stripe-cart-setting.php:200
+msgid "Germany"
+msgstr "ドイツ"
+
+#: class.wp-stripe-cart-setting.php:212
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:201
+#: svn/trunk/class.wp-stripe-cart-setting.php:201
+msgid "Ghana"
+msgstr "ガーナ"
+
+#: class.wp-stripe-cart-setting.php:213
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:202
+#: svn/trunk/class.wp-stripe-cart-setting.php:202
+msgid "Gibraltar"
+msgstr "ジブラルタル"
+
+#: class.wp-stripe-cart-setting.php:214
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:203
+#: svn/trunk/class.wp-stripe-cart-setting.php:203
+msgid "Greece"
+msgstr "ギリシャ"
+
+#: class.wp-stripe-cart-setting.php:215
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:204
+#: svn/trunk/class.wp-stripe-cart-setting.php:204
+msgid "Greenland"
+msgstr "グリーンランド"
+
+#: class.wp-stripe-cart-setting.php:216
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:205
+#: svn/trunk/class.wp-stripe-cart-setting.php:205
+msgid "Grenada"
+msgstr "グレナダ"
+
+#: class.wp-stripe-cart-setting.php:217
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:206
+#: svn/trunk/class.wp-stripe-cart-setting.php:206
+msgid "Guadeloupe"
+msgstr "グアドループ"
+
+#: class.wp-stripe-cart-setting.php:218
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:207
+#: svn/trunk/class.wp-stripe-cart-setting.php:207
+msgid "Guam"
+msgstr "グアム"
+
+#: class.wp-stripe-cart-setting.php:219
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:208
+#: svn/trunk/class.wp-stripe-cart-setting.php:208
+msgid "Guatemala"
+msgstr "グアテマラ"
+
+#: class.wp-stripe-cart-setting.php:220
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:209
+#: svn/trunk/class.wp-stripe-cart-setting.php:209
+msgid "Guernsey"
+msgstr "ガーンジー"
+
+#: class.wp-stripe-cart-setting.php:221
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:210
+#: svn/trunk/class.wp-stripe-cart-setting.php:210
+msgid "Guinea"
+msgstr "ギニア"
+
+#: class.wp-stripe-cart-setting.php:222
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:211
+#: svn/trunk/class.wp-stripe-cart-setting.php:211
+msgid "Guinea-Bissau"
+msgstr "ギニアビサウ"
+
+#: class.wp-stripe-cart-setting.php:223
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:212
+#: svn/trunk/class.wp-stripe-cart-setting.php:212
+msgid "Guyana"
+msgstr "ガイアナ"
+
+#: class.wp-stripe-cart-setting.php:224
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:213
+#: svn/trunk/class.wp-stripe-cart-setting.php:213
+msgid "Haiti"
+msgstr "ハイチ"
+
+#: class.wp-stripe-cart-setting.php:225
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:214
+#: svn/trunk/class.wp-stripe-cart-setting.php:214
+msgid "Honduras"
+msgstr "ホンジュラス"
+
+#: class.wp-stripe-cart-setting.php:226
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:215
+#: svn/trunk/class.wp-stripe-cart-setting.php:215
+msgid "Hong Kong SAR China"
+msgstr "香港"
+
+#: class.wp-stripe-cart-setting.php:227
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:216
+#: svn/trunk/class.wp-stripe-cart-setting.php:216
+msgid "Hungary"
+msgstr "ハンガリー"
+
+#: class.wp-stripe-cart-setting.php:228
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:217
+#: svn/trunk/class.wp-stripe-cart-setting.php:217
+msgid "Iceland"
+msgstr "アイスランド"
+
+#: class.wp-stripe-cart-setting.php:229
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:218
+#: svn/trunk/class.wp-stripe-cart-setting.php:218
+msgid "India"
+msgstr "インド"
+
+#: class.wp-stripe-cart-setting.php:230
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:219
+#: svn/trunk/class.wp-stripe-cart-setting.php:219
+msgid "Indonesia"
+msgstr "インドネシア"
+
+#: class.wp-stripe-cart-setting.php:231
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:220
+#: svn/trunk/class.wp-stripe-cart-setting.php:220
+msgid "Iraq"
+msgstr "イラク"
+
+#: class.wp-stripe-cart-setting.php:232
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:221
+#: svn/trunk/class.wp-stripe-cart-setting.php:221
+msgid "Ireland"
+msgstr "アイルランド"
+
+#: class.wp-stripe-cart-setting.php:233
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:222
+#: svn/trunk/class.wp-stripe-cart-setting.php:222
+msgid "Isle of Man"
+msgstr "マン島"
+
+#: class.wp-stripe-cart-setting.php:234
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:223
+#: svn/trunk/class.wp-stripe-cart-setting.php:223
+msgid "Israel"
+msgstr "イスラエル"
+
+#: class.wp-stripe-cart-setting.php:235
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:224
+#: svn/trunk/class.wp-stripe-cart-setting.php:224
+msgid "Italy"
+msgstr "イタリア"
+
+#: class.wp-stripe-cart-setting.php:236
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:225
+#: svn/trunk/class.wp-stripe-cart-setting.php:225
+msgid "Jamaica"
+msgstr "ジャマイカ"
+
+#: class.wp-stripe-cart-setting.php:237
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:226
+#: svn/trunk/class.wp-stripe-cart-setting.php:226
+msgid "Japan"
+msgstr "日本"
+
+#: class.wp-stripe-cart-setting.php:238
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:227
+#: svn/trunk/class.wp-stripe-cart-setting.php:227
+msgid "Jersey"
+msgstr "ジャージ"
+
+#: class.wp-stripe-cart-setting.php:239
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:228
+#: svn/trunk/class.wp-stripe-cart-setting.php:228
+msgid "Jordan"
+msgstr "ヨルダン"
+
+#: class.wp-stripe-cart-setting.php:240
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:229
+#: svn/trunk/class.wp-stripe-cart-setting.php:229
+msgid "Kazakhstan"
+msgstr "カザフスタン"
+
+#: class.wp-stripe-cart-setting.php:241
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:230
+#: svn/trunk/class.wp-stripe-cart-setting.php:230
+msgid "Kenya"
+msgstr "ケニア"
+
+#: class.wp-stripe-cart-setting.php:242
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:231
+#: svn/trunk/class.wp-stripe-cart-setting.php:231
+msgid "Kiribati"
+msgstr "キリバス"
+
+#: class.wp-stripe-cart-setting.php:243
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:232
+#: svn/trunk/class.wp-stripe-cart-setting.php:232
+msgid "Kosovo"
+msgstr "コソボ"
+
+#: class.wp-stripe-cart-setting.php:244
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:233
+#: svn/trunk/class.wp-stripe-cart-setting.php:233
+msgid "Kuwait"
+msgstr "クウェート"
+
+#: class.wp-stripe-cart-setting.php:245
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:234
+#: svn/trunk/class.wp-stripe-cart-setting.php:234
+msgid "Kyrgyzstan"
+msgstr "キルギスタン"
+
+#: class.wp-stripe-cart-setting.php:246
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:235
+#: svn/trunk/class.wp-stripe-cart-setting.php:235
+msgid "Laos"
+msgstr "ラオス"
+
+#: class.wp-stripe-cart-setting.php:247
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:236
+#: svn/trunk/class.wp-stripe-cart-setting.php:236
+msgid "Latvia"
+msgstr "ラトビア"
+
+#: class.wp-stripe-cart-setting.php:248
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:237
+#: svn/trunk/class.wp-stripe-cart-setting.php:237
+msgid "Lebanon"
+msgstr "レバノン"
+
+#: class.wp-stripe-cart-setting.php:249
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:238
+#: svn/trunk/class.wp-stripe-cart-setting.php:238
+msgid "Lesotho"
+msgstr "レソト"
+
+#: class.wp-stripe-cart-setting.php:250
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:239
+#: svn/trunk/class.wp-stripe-cart-setting.php:239
+msgid "Liberia"
+msgstr "リベリア"
+
+#: class.wp-stripe-cart-setting.php:251
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:240
+#: svn/trunk/class.wp-stripe-cart-setting.php:240
+msgid "Libya"
+msgstr "リビア"
+
+#: class.wp-stripe-cart-setting.php:252
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:241
+#: svn/trunk/class.wp-stripe-cart-setting.php:241
+msgid "Liechtenstein"
+msgstr "リヒテンシュタイン"
+
+#: class.wp-stripe-cart-setting.php:253
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:242
+#: svn/trunk/class.wp-stripe-cart-setting.php:242
+msgid "Lithuania"
+msgstr "リトアニア"
+
+#: class.wp-stripe-cart-setting.php:254
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:243
+#: svn/trunk/class.wp-stripe-cart-setting.php:243
+msgid "Luxembourg"
+msgstr "ルクセンブルク"
+
+#: class.wp-stripe-cart-setting.php:255
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:244
+#: svn/trunk/class.wp-stripe-cart-setting.php:244
+msgid "Macao SAR China"
+msgstr "マカオ特別行政区"
+
+#: class.wp-stripe-cart-setting.php:256
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:245
+#: svn/trunk/class.wp-stripe-cart-setting.php:245
+msgid "Madagascar"
+msgstr "マダガスカル"
+
+#: class.wp-stripe-cart-setting.php:257
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:246
+#: svn/trunk/class.wp-stripe-cart-setting.php:246
+msgid "Malawi"
+msgstr "マラウイ"
+
+#: class.wp-stripe-cart-setting.php:258
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:247
+#: svn/trunk/class.wp-stripe-cart-setting.php:247
+msgid "Malaysia"
+msgstr "マレーシア"
+
+#: class.wp-stripe-cart-setting.php:259
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:248
+#: svn/trunk/class.wp-stripe-cart-setting.php:248
+msgid "Maldives"
+msgstr "モルディブ"
+
+#: class.wp-stripe-cart-setting.php:260
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:249
+#: svn/trunk/class.wp-stripe-cart-setting.php:249
+msgid "Mali"
+msgstr "マリ"
+
+#: class.wp-stripe-cart-setting.php:261
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:250
+#: svn/trunk/class.wp-stripe-cart-setting.php:250
+msgid "Malta"
+msgstr "マルタ"
+
+#: class.wp-stripe-cart-setting.php:262
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:251
+#: svn/trunk/class.wp-stripe-cart-setting.php:251
+msgid "Martinique"
+msgstr "マルティニーク"
+
+#: class.wp-stripe-cart-setting.php:263
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:252
+#: svn/trunk/class.wp-stripe-cart-setting.php:252
+msgid "Mauritania"
+msgstr "モーリタニア"
+
+#: class.wp-stripe-cart-setting.php:264
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:253
+#: svn/trunk/class.wp-stripe-cart-setting.php:253
+msgid "Mauritius"
+msgstr "モーリシャス"
+
+#: class.wp-stripe-cart-setting.php:265
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:254
+#: svn/trunk/class.wp-stripe-cart-setting.php:254
+msgid "Mayotte"
+msgstr "マヨット"
+
+#: class.wp-stripe-cart-setting.php:266
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:255
+#: svn/trunk/class.wp-stripe-cart-setting.php:255
+msgid "Mexico"
+msgstr "メキシコ"
+
+#: class.wp-stripe-cart-setting.php:267
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:256
+#: svn/trunk/class.wp-stripe-cart-setting.php:256
+msgid "Moldova"
+msgstr "モルドバ"
+
+#: class.wp-stripe-cart-setting.php:268
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:257
+#: svn/trunk/class.wp-stripe-cart-setting.php:257
+msgid "Monaco"
+msgstr "モナコ"
+
+#: class.wp-stripe-cart-setting.php:269
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:258
+#: svn/trunk/class.wp-stripe-cart-setting.php:258
+msgid "Mongolia"
+msgstr "モンゴル"
+
+#: class.wp-stripe-cart-setting.php:270
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:259
+#: svn/trunk/class.wp-stripe-cart-setting.php:259
+msgid "Montenegro"
+msgstr "モンテネグロ"
+
+#: class.wp-stripe-cart-setting.php:271
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:260
+#: svn/trunk/class.wp-stripe-cart-setting.php:260
+msgid "Montserrat"
+msgstr "モントセラト"
+
+#: class.wp-stripe-cart-setting.php:272
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:261
+#: svn/trunk/class.wp-stripe-cart-setting.php:261
+msgid "Morocco"
+msgstr "モロッコ"
+
+#: class.wp-stripe-cart-setting.php:273
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:262
+#: svn/trunk/class.wp-stripe-cart-setting.php:262
+msgid "Mozambique"
+msgstr "モザンビーク"
+
+#: class.wp-stripe-cart-setting.php:274
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:263
+#: svn/trunk/class.wp-stripe-cart-setting.php:263
+msgid "Myanmar (Burma)"
+msgstr "ミャンマー (ビルマ)"
+
+#: class.wp-stripe-cart-setting.php:275
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:264
+#: svn/trunk/class.wp-stripe-cart-setting.php:264
+msgid "Namibia"
+msgstr "ナミビア"
+
+#: class.wp-stripe-cart-setting.php:276
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:265
+#: svn/trunk/class.wp-stripe-cart-setting.php:265
+msgid "Nauru"
+msgstr "ナウル"
+
+#: class.wp-stripe-cart-setting.php:277
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:266
+#: svn/trunk/class.wp-stripe-cart-setting.php:266
+msgid "Nepal"
+msgstr "ネパール"
+
+#: class.wp-stripe-cart-setting.php:278
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:267
+#: svn/trunk/class.wp-stripe-cart-setting.php:267
+msgid "Netherlands"
+msgstr "オランダ"
+
+#: class.wp-stripe-cart-setting.php:279
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:268
+#: svn/trunk/class.wp-stripe-cart-setting.php:268
+msgid "New Caledonia"
+msgstr "ニューカレドニア"
+
+#: class.wp-stripe-cart-setting.php:280
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:269
+#: svn/trunk/class.wp-stripe-cart-setting.php:269
+msgid "New Zealand"
+msgstr "ニュージーランド"
+
+#: class.wp-stripe-cart-setting.php:281
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:270
+#: svn/trunk/class.wp-stripe-cart-setting.php:270
+msgid "Nicaragua"
+msgstr "ニカラグア"
+
+#: class.wp-stripe-cart-setting.php:282
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:271
+#: svn/trunk/class.wp-stripe-cart-setting.php:271
+msgid "Niger"
+msgstr "ニジェール"
+
+#: class.wp-stripe-cart-setting.php:283
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:272
+#: svn/trunk/class.wp-stripe-cart-setting.php:272
+msgid "Nigeria"
+msgstr "ナイジェリア"
+
+#: class.wp-stripe-cart-setting.php:284
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:273
+#: svn/trunk/class.wp-stripe-cart-setting.php:273
+msgid "Niue"
+msgstr "ニウエ"
+
+#: class.wp-stripe-cart-setting.php:285
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:274
+#: svn/trunk/class.wp-stripe-cart-setting.php:274
+msgid "North Macedonia"
+msgstr "北マケドニア"
+
+#: class.wp-stripe-cart-setting.php:286
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:275
+#: svn/trunk/class.wp-stripe-cart-setting.php:275
+msgid "Norway"
+msgstr "ノルウェー"
+
+#: class.wp-stripe-cart-setting.php:287
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:276
+#: svn/trunk/class.wp-stripe-cart-setting.php:276
+msgid "Oman"
+msgstr "オマーン"
+
+#: class.wp-stripe-cart-setting.php:288
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:277
+#: svn/trunk/class.wp-stripe-cart-setting.php:277
+msgid "Pakistan"
+msgstr "パキスタン"
+
+#: class.wp-stripe-cart-setting.php:289
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:278
+#: svn/trunk/class.wp-stripe-cart-setting.php:278
+msgid "Palestinian Territories"
+msgstr "パレスチナ自治区"
+
+#: class.wp-stripe-cart-setting.php:290
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:279
+#: svn/trunk/class.wp-stripe-cart-setting.php:279
+msgid "Panama"
+msgstr "パナマ"
+
+#: class.wp-stripe-cart-setting.php:291
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:280
+#: svn/trunk/class.wp-stripe-cart-setting.php:280
+msgid "Papua New Guinea"
+msgstr "パプアニューギニア"
+
+#: class.wp-stripe-cart-setting.php:292
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:281
+#: svn/trunk/class.wp-stripe-cart-setting.php:281
+msgid "Paraguay"
+msgstr "パラグアイ"
+
+#: class.wp-stripe-cart-setting.php:293
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:282
+#: svn/trunk/class.wp-stripe-cart-setting.php:282
+msgid "Peru"
+msgstr "ペルー"
+
+#: class.wp-stripe-cart-setting.php:294
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:283
+#: svn/trunk/class.wp-stripe-cart-setting.php:283
+msgid "Philippines"
+msgstr "フィリピン"
+
+#: class.wp-stripe-cart-setting.php:295
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:284
+#: svn/trunk/class.wp-stripe-cart-setting.php:284
+#, fuzzy
+msgid "Pitcairn Islands"
+msgstr "ピトケアン諸島"
+
+#: class.wp-stripe-cart-setting.php:296
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:285
+#: svn/trunk/class.wp-stripe-cart-setting.php:285
+msgid "Poland"
+msgstr "ポーランド"
+
+#: class.wp-stripe-cart-setting.php:297
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:286
+#: svn/trunk/class.wp-stripe-cart-setting.php:286
+msgid "Portugal"
+msgstr "ポルトガル"
+
+#: class.wp-stripe-cart-setting.php:298
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:287
+#: svn/trunk/class.wp-stripe-cart-setting.php:287
+msgid "Puerto Rico"
+msgstr "プエルトリコ"
+
+#: class.wp-stripe-cart-setting.php:299
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:288
+#: svn/trunk/class.wp-stripe-cart-setting.php:288
+msgid "Qatar"
+msgstr "カタール"
+
+#: class.wp-stripe-cart-setting.php:300
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:289
+#: svn/trunk/class.wp-stripe-cart-setting.php:289
+msgid "Republic of Korea"
+msgstr "大韓民国"
+
+#: class.wp-stripe-cart-setting.php:301
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:290
+#: svn/trunk/class.wp-stripe-cart-setting.php:290
+msgid "Réunion"
+msgstr "レユニオン"
+
+#: class.wp-stripe-cart-setting.php:302
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:291
+#: svn/trunk/class.wp-stripe-cart-setting.php:291
+msgid "Romania"
+msgstr "ルーマニア"
+
+#: class.wp-stripe-cart-setting.php:303
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:292
+#: svn/trunk/class.wp-stripe-cart-setting.php:292
+msgid "Russia"
+msgstr "ロシア"
+
+#: class.wp-stripe-cart-setting.php:304
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:293
+#: svn/trunk/class.wp-stripe-cart-setting.php:293
+msgid "Rwanda"
+msgstr "ルワンダ"
+
+#: class.wp-stripe-cart-setting.php:305
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:294
+#: svn/trunk/class.wp-stripe-cart-setting.php:294
+msgid "Samoa"
+msgstr "サモア"
+
+#: class.wp-stripe-cart-setting.php:306
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:295
+#: svn/trunk/class.wp-stripe-cart-setting.php:295
+msgid "San Marino"
+msgstr "サンマリノ"
+
+#: class.wp-stripe-cart-setting.php:307
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:296
+#: svn/trunk/class.wp-stripe-cart-setting.php:296
+#, fuzzy
+msgid "São Tomé &amp; Príncipe"
+msgstr "サントメ・プリンシペ"
+
+#: class.wp-stripe-cart-setting.php:308
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:297
+#: svn/trunk/class.wp-stripe-cart-setting.php:297
+msgid "Saudi Arabia"
+msgstr "サウジアラビア"
+
+#: class.wp-stripe-cart-setting.php:309
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:298
+#: svn/trunk/class.wp-stripe-cart-setting.php:298
+msgid "Senegal"
+msgstr "セネガル"
+
+#: class.wp-stripe-cart-setting.php:310
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:299
+#: svn/trunk/class.wp-stripe-cart-setting.php:299
+msgid "Serbia"
+msgstr "セルビア"
+
+#: class.wp-stripe-cart-setting.php:311
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:300
+#: svn/trunk/class.wp-stripe-cart-setting.php:300
+msgid "Seychelles"
+msgstr "セイシェル"
+
+#: class.wp-stripe-cart-setting.php:312
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:301
+#: svn/trunk/class.wp-stripe-cart-setting.php:301
+msgid "Sierra Leone"
+msgstr "シエラレオネ"
+
+#: class.wp-stripe-cart-setting.php:313
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:302
+#: svn/trunk/class.wp-stripe-cart-setting.php:302
+msgid "Singapore"
+msgstr "シンガポール"
+
+#: class.wp-stripe-cart-setting.php:314
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:303
+#: svn/trunk/class.wp-stripe-cart-setting.php:303
+msgid "Sint Maarten"
+msgstr "シントマールテン"
+
+#: class.wp-stripe-cart-setting.php:315
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:304
+#: svn/trunk/class.wp-stripe-cart-setting.php:304
+msgid "Slovakia"
+msgstr "スロバキア"
+
+#: class.wp-stripe-cart-setting.php:316
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:305
+#: svn/trunk/class.wp-stripe-cart-setting.php:305
+msgid "Slovenia"
+msgstr "スロベニア"
+
+#: class.wp-stripe-cart-setting.php:317
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:306
+#: svn/trunk/class.wp-stripe-cart-setting.php:306
+msgid "Solomon Islands"
+msgstr "ソロモン諸島"
+
+#: class.wp-stripe-cart-setting.php:318
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:307
+#: svn/trunk/class.wp-stripe-cart-setting.php:307
+msgid "Somalia"
+msgstr "ソマリア"
+
+#: class.wp-stripe-cart-setting.php:319
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:308
+#: svn/trunk/class.wp-stripe-cart-setting.php:308
+msgid "South Africa"
+msgstr "南アフリカ"
+
+#: class.wp-stripe-cart-setting.php:320
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:309
+#: svn/trunk/class.wp-stripe-cart-setting.php:309
+#, fuzzy
+msgid "South Georgia &amp; South Sandwich Islands"
+msgstr "サウスジョージアとサウスサンドイッチ諸島"
+
+#: class.wp-stripe-cart-setting.php:321
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:310
+#: svn/trunk/class.wp-stripe-cart-setting.php:310
+msgid "South Sudan"
+msgstr "南スーダン"
+
+#: class.wp-stripe-cart-setting.php:322
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:311
+#: svn/trunk/class.wp-stripe-cart-setting.php:311
+msgid "Spain"
+msgstr "スペイン"
+
+#: class.wp-stripe-cart-setting.php:323
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:312
+#: svn/trunk/class.wp-stripe-cart-setting.php:312
+msgid "Sri Lanka"
+msgstr "スリランカ"
+
+#: class.wp-stripe-cart-setting.php:324
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:313
+#: svn/trunk/class.wp-stripe-cart-setting.php:313
+#, fuzzy
+msgid "St. Barthélemy"
+msgstr "サン・バルテレミー"
+
+#: class.wp-stripe-cart-setting.php:325
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:314
+#: svn/trunk/class.wp-stripe-cart-setting.php:314
+msgid "St. Helena"
+msgstr "セント・ヘレナ"
+
+#: class.wp-stripe-cart-setting.php:326
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:315
+#: svn/trunk/class.wp-stripe-cart-setting.php:315
+#, fuzzy
+msgid "St. Kitts &amp; Nevis"
+msgstr "セントクリストファー・ネイビス"
+
+#: class.wp-stripe-cart-setting.php:327
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:316
+#: svn/trunk/class.wp-stripe-cart-setting.php:316
+#, fuzzy
+msgid "St. Lucia"
+msgstr "セントルシア"
+
+#: class.wp-stripe-cart-setting.php:328
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:317
+#: svn/trunk/class.wp-stripe-cart-setting.php:317
+msgid "St. Martin"
+msgstr "セント マーティン"
+
+#: class.wp-stripe-cart-setting.php:329
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:318
+#: svn/trunk/class.wp-stripe-cart-setting.php:318
+#, fuzzy
+msgid "St. Pierre &amp; Miquelon"
+msgstr "サンピエール&amp;ミクロン"
+
+#: class.wp-stripe-cart-setting.php:330
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:319
+#: svn/trunk/class.wp-stripe-cart-setting.php:319
+#, fuzzy
+msgid "St. Vincent &amp; Grenadines"
+msgstr "セントビンセント・グレナディーン諸島"
+
+#: class.wp-stripe-cart-setting.php:331
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:320
+#: svn/trunk/class.wp-stripe-cart-setting.php:320
+#, fuzzy
+msgid "Suriname"
+msgstr "スリナム"
+
+#: class.wp-stripe-cart-setting.php:332
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:321
+#: svn/trunk/class.wp-stripe-cart-setting.php:321
+#, fuzzy
+msgid "Svalbard &amp; Jan Mayen"
+msgstr "スバールバル諸島・ヤン・メイエン"
+
+#: class.wp-stripe-cart-setting.php:333
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:322
+#: svn/trunk/class.wp-stripe-cart-setting.php:322
+msgid "Sweden"
+msgstr "スウェーデン"
+
+#: class.wp-stripe-cart-setting.php:334
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:323
+#: svn/trunk/class.wp-stripe-cart-setting.php:323
+msgid "Switzerland"
+msgstr "スイス"
+
+#: class.wp-stripe-cart-setting.php:335
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:324
+#: svn/trunk/class.wp-stripe-cart-setting.php:324
+msgid "Taiwan"
+msgstr "台湾"
+
+#: class.wp-stripe-cart-setting.php:336
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:325
+#: svn/trunk/class.wp-stripe-cart-setting.php:325
+msgid "Tajikistan"
+msgstr "タジキスタン"
+
+#: class.wp-stripe-cart-setting.php:337
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:326
+#: svn/trunk/class.wp-stripe-cart-setting.php:326
+msgid "Tanzania"
+msgstr "タンザニア"
+
+#: class.wp-stripe-cart-setting.php:338
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:327
+#: svn/trunk/class.wp-stripe-cart-setting.php:327
+msgid "Thailand"
+msgstr "タイ"
+
+#: class.wp-stripe-cart-setting.php:339
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:328
+#: svn/trunk/class.wp-stripe-cart-setting.php:328
+msgid "Timor-Leste"
+msgstr "東ティモール"
+
+#: class.wp-stripe-cart-setting.php:340
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:329
+#: svn/trunk/class.wp-stripe-cart-setting.php:329
+msgid "Togo"
+msgstr "トーゴ"
+
+#: class.wp-stripe-cart-setting.php:341
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:330
+#: svn/trunk/class.wp-stripe-cart-setting.php:330
+msgid "Tokelau"
+msgstr "トケラウ"
+
+#: class.wp-stripe-cart-setting.php:342
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:331
+#: svn/trunk/class.wp-stripe-cart-setting.php:331
+msgid "Tonga"
+msgstr "トンガ"
+
+#: class.wp-stripe-cart-setting.php:343
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:332
+#: svn/trunk/class.wp-stripe-cart-setting.php:332
+#, fuzzy
+msgid "Trinidad &amp; Tobago"
+msgstr "トリニダード・トバゴ"
+
+#: class.wp-stripe-cart-setting.php:344
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:333
+#: svn/trunk/class.wp-stripe-cart-setting.php:333
+#, fuzzy
+msgid "Tristan da Cunha"
+msgstr "トリスタン・ダ・クーニャ"
+
+#: class.wp-stripe-cart-setting.php:345
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:334
+#: svn/trunk/class.wp-stripe-cart-setting.php:334
+msgid "Tunisia"
+msgstr "チュニジア"
+
+#: class.wp-stripe-cart-setting.php:346
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:335
+#: svn/trunk/class.wp-stripe-cart-setting.php:335
+msgid "Turkey"
+msgstr "トルコ"
+
+#: class.wp-stripe-cart-setting.php:347
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:336
+#: svn/trunk/class.wp-stripe-cart-setting.php:336
+msgid "Turkmenistan"
+msgstr "トルクメニスタン"
+
+#: class.wp-stripe-cart-setting.php:348
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:337
+#: svn/trunk/class.wp-stripe-cart-setting.php:337
+#, fuzzy
+msgid "Turks &amp; Caicos Islands"
+msgstr "タークス・カイコス諸島"
+
+#: class.wp-stripe-cart-setting.php:349
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:338
+#: svn/trunk/class.wp-stripe-cart-setting.php:338
+msgid "Tuvalu"
+msgstr "ツバル"
+
+#: class.wp-stripe-cart-setting.php:350
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:339
+#: svn/trunk/class.wp-stripe-cart-setting.php:339
+msgid "Uganda"
+msgstr "ウガンダ"
+
+#: class.wp-stripe-cart-setting.php:351
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:340
+#: svn/trunk/class.wp-stripe-cart-setting.php:340
+msgid "Ukraine"
+msgstr "ウクライナ"
+
+#: class.wp-stripe-cart-setting.php:352
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:341
+#: svn/trunk/class.wp-stripe-cart-setting.php:341
+msgid "United Arab Emirates"
+msgstr "アラブ首長国連邦"
+
+#: class.wp-stripe-cart-setting.php:353
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:342
+#: svn/trunk/class.wp-stripe-cart-setting.php:342
+msgid "United Kingdom"
+msgstr "イギリス"
+
+#: class.wp-stripe-cart-setting.php:354
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:343
+#: svn/trunk/class.wp-stripe-cart-setting.php:343
+msgid "United States"
+msgstr "アメリカ"
+
+#: class.wp-stripe-cart-setting.php:355
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:344
+#: svn/trunk/class.wp-stripe-cart-setting.php:344
+msgid "Uruguay"
+msgstr "ウルグアイ"
+
+#: class.wp-stripe-cart-setting.php:356
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:345
+#: svn/trunk/class.wp-stripe-cart-setting.php:345
+msgid "Uzbekistan"
+msgstr "ウズベキスタン"
+
+#: class.wp-stripe-cart-setting.php:357
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:346
+#: svn/trunk/class.wp-stripe-cart-setting.php:346
+msgid "Vanuatu"
+msgstr "バヌアツ"
+
+#: class.wp-stripe-cart-setting.php:358
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:347
+#: svn/trunk/class.wp-stripe-cart-setting.php:347
+#, fuzzy
+msgid "Vatican City"
+msgstr "バチカン市国"
+
+#: class.wp-stripe-cart-setting.php:359
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:348
+#: svn/trunk/class.wp-stripe-cart-setting.php:348
+msgid "Venezuela"
+msgstr "ベネズエラ"
+
+#: class.wp-stripe-cart-setting.php:360
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:349
+#: svn/trunk/class.wp-stripe-cart-setting.php:349
+msgid "Vietnam"
+msgstr "ベトナム"
+
+#: class.wp-stripe-cart-setting.php:361
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:350
+#: svn/trunk/class.wp-stripe-cart-setting.php:350
+#, fuzzy
+msgid "Wallis &amp; Futuna"
+msgstr "ウォリスとフツナ"
+
+#: class.wp-stripe-cart-setting.php:362
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:351
+#: svn/trunk/class.wp-stripe-cart-setting.php:351
+msgid "Western Sahara"
+msgstr "西サハラ"
+
+#: class.wp-stripe-cart-setting.php:363
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:352
+#: svn/trunk/class.wp-stripe-cart-setting.php:352
+msgid "Yemen"
+msgstr "イエメン"
+
+#: class.wp-stripe-cart-setting.php:364
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:353
+#: svn/trunk/class.wp-stripe-cart-setting.php:353
+msgid "Zambia"
+msgstr "ザンビア"
+
+#: class.wp-stripe-cart-setting.php:365
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:354
+#: svn/trunk/class.wp-stripe-cart-setting.php:354
+msgid "Zimbabwe"
+msgstr "ジンバブエ"
+
+#: class.wp-stripe-cart-setting.php:375
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:364
+#: svn/trunk/class.wp-stripe-cart-setting.php:364
+msgid ""
+"Please set Tax rate. If tax rate has set to 0 or balnk, No tax will be added "
+"on checkout."
+msgstr ""
+"税率を設定してください。税率が 0 または値下がった場合、チェックアウト時に税は"
+"加算されません。"
+
+#: class.wp-stripe-cart-setting.php:377
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:366
+#: svn/trunk/class.wp-stripe-cart-setting.php:366
+msgid "Tax rate"
+msgstr "税率"
+
+#: class.wp-stripe-cart-setting.php:383
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:372
+#: svn/trunk/class.wp-stripe-cart-setting.php:372
+msgid ""
+"If set to HIDE, shipping fee will not be charged regardless of shipping fee "
+"settings."
+msgstr "非表示に設定した場合、送料設定にかかわらず送料は請求されません。"
+
+#: class.wp-stripe-cart-setting.php:386
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:375
+#: svn/trunk/class.wp-stripe-cart-setting.php:375
+msgid "Display shipping fee"
+msgstr "送料の表示"
+
+#: class.wp-stripe-cart-setting.php:390
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:379
+#: svn/trunk/class.wp-stripe-cart-setting.php:379
+msgid "Hide shipping fee"
+msgstr "送料を非表示にする"
+
+#: class.wp-stripe-cart-setting.php:395
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:384
+#: svn/trunk/class.wp-stripe-cart-setting.php:384
+msgid "Shipping fee"
+msgstr "送料"
+
+#: class.wp-stripe-cart-setting.php:396
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:385
+#: svn/trunk/class.wp-stripe-cart-setting.php:385
+msgid ""
+"If fixed fee has set, fixed shipping fee will be charged regardless of "
+"varied shipping fee setting."
+msgstr ""
+"固定料金が設定されている場合、国別/地域別の送料設定に関係なく、固定送料が請求"
+"されます。"
+
+#: class.wp-stripe-cart-setting.php:398
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:387
+#: svn/trunk/class.wp-stripe-cart-setting.php:387
+msgid "Fixed fee"
+msgstr "固定料金"
+
+#: class.wp-stripe-cart-setting.php:404
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:393
+#: svn/trunk/class.wp-stripe-cart-setting.php:393
+msgid ""
+"If you need charge shipping fee depend on country or state, please set them "
+"in JSON format.\n"
+"example:\n"
+"{\n"
+"\t\"JP\": {\n"
+"\t\t\"北海道\": 1200,\n"
+"\t\t\"青森県\": 1000,\n"
+"\t\t\"岩手県\": 1000\n"
+"\t},\n"
+"\t\"GB\": 1200,\n"
+"\t\"US\": 1800\n"
+"}\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+"国や州によって配送料が必要な場合は、以下のようなJSON形式で設定してくださ"
+"い。\n"
+"例：\n"
+"{\n"
+"\t\"JP\": {\n"
+"\t\t\"北海道\": 1200,\n"
+"\t\t\"青森県\": 1000,\n"
+"\t\t\"岩手県\": 1000\n"
+"\t},\n"
+"\t\"GB\": 1200、\n"
+"\t「米国」:1800\n"
+"}\n"
+"\t\t\t\t\t\t\t"
+
+#: class.wp-stripe-cart-setting.php:417
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:406
+#: svn/trunk/class.wp-stripe-cart-setting.php:406
+msgid "Varied Fee"
+msgstr "国/地域別料金"
+
+#: class.wp-stripe-cart-setting.php:420
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:409
+#: svn/trunk/class.wp-stripe-cart-setting.php:409
+msgid ""
+"Varied shipping fee setting is only availble to the country that provide "
+"state/province field as selectbox.\n"
+"\t\t\t\t\t\t\tCurrently available countries are:\n"
+"\t\t\t\t\t\t\tUnited Arab Emirates, Armenia, Argentina, Australia, Barbados, "
+"Brazil, Bahamas, Belarus, Canada, Chile, China, Colombia, Costa Rica, Cape "
+"Verde, Egypt, Spain, Hong Kong SAR China, Honduras, Indonesia, Ireland, "
+"India, Iraq, Italy, Jamaica, Japan, Kiribati, St. Kitts &amp; Nevis, "
+"Republic of Korea, Cayman Islands, Kazakhstan, Mongolia, Mexico, Malaysia, "
+"Mozambique, Nigeria, Nicaragua, Nauru, Panama, Peru, French Polynesia, Papua "
+"New Guinea, Philippines, Russia, Somalia, Suriname, El Salvador, Thailand, "
+"Turkey, Tuvalu, Taiwan, Ukraine, United States, Uruguay, Uzbekistan, "
+"Venezuela, Vietnam\n"
+"\t\t\t\t\t\t\t"
+msgstr ""
+"国/地域別送料設定は、地域/州のフィールドを選択ボックスとして提供する国に対し"
+"てのみ有効です。\n"
+"\t\t\t\t\t\t\t現在利用可能な国は次のとおりです。\n"
+"\t\t\t\t\t\t\tアラブ首長国連邦、アルメニア、アルゼンチン、オーストラリア、バ"
+"ルバドス、ブラジル、バハマ、ベラルーシ、カナダ、チリ、中国、コロンビア、コス"
+"タリカ、カーボベルデ、エジプト、スペイン、香港、ホンジュラス、インドネシア、"
+"アイルランド、インド、イラク、イタリア、 ジャマイカ、日本、キリバス、セント"
+"キッツ&amp;ネビス、韓国、ケイマン諸島、カザフスタン、モンゴル、メキシコ、マ"
+"レーシア、モザンビーク、ナイジェリア、ニカラグア、ナウル、パナマ、ペルー、フ"
+"ランス領ポリネシア、パプアニューギニア、フィリピン、ロシア、ソマリア、スリナ"
+"ム、エルエルサルバドル、タイ、トルコ、ツバル、台湾、エルエルサルバドル、タ"
+"イ、トルコ、トゥバル語、台湾、エルサルバドル、タイ、トルコ、トゥバル、台湾、"
+"ウクライナ、アメリカ、ウルグアイ、ウズベキスタン、ベネズエラ、ベトナム\n"
+"\t\t\t\t\t\t\t"
+
+#: class.wp-stripe-cart-setting.php:429
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:418
+#: svn/trunk/class.wp-stripe-cart-setting.php:418
+msgid "Success & Error messages"
+msgstr "完了・エラー メッセージ"
+
+#: class.wp-stripe-cart-setting.php:430
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:419
+#: svn/trunk/class.wp-stripe-cart-setting.php:419
+msgid ""
+"You can set custom message for Success / Error checkout. If no custom "
+"message have set, default message will be displayed."
+msgstr ""
+"チェックアウトの完了・エラー時のカスタムメッセージを設定できます。カスタム "
+"メッセージが設定されていない場合は、既定のメッセージが表示されます。"
+
+#: class.wp-stripe-cart-setting.php:432
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:421
+#: svn/trunk/class.wp-stripe-cart-setting.php:421
+msgid "Success header"
+msgstr "完了時ヘッダー"
+
+#: class.wp-stripe-cart-setting.php:435 class.wp-stripe-cart-setting.php:443
+#: class.wp-stripe-cart-setting.php:452 class.wp-stripe-cart-setting.php:460
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:424
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:432
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:441
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:449
+#: svn/trunk/class.wp-stripe-cart-setting.php:424
+#: svn/trunk/class.wp-stripe-cart-setting.php:432
+#: svn/trunk/class.wp-stripe-cart-setting.php:441
+#: svn/trunk/class.wp-stripe-cart-setting.php:449
+msgid "Default"
+msgstr "デフォルト"
+
+#: class.wp-stripe-cart-setting.php:436 class.wp-stripe-cart.php:43
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:425
+#: svn/tags/1.0.0/class.wp-stripe-cart.php:43
+#: svn/trunk/class.wp-stripe-cart-setting.php:425
+#: svn/trunk/class.wp-stripe-cart.php:43
+msgid "Thanks for your order!"
+msgstr "ご注文いただきありがとうございます!"
+
+#: class.wp-stripe-cart-setting.php:440
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:429
+#: svn/trunk/class.wp-stripe-cart-setting.php:429
+msgid "Success message"
+msgstr "完了時のメッセージ"
+
+#: class.wp-stripe-cart-setting.php:444 class.wp-stripe-cart.php:44
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:433
+#: svn/tags/1.0.0/class.wp-stripe-cart.php:44
+#: svn/trunk/class.wp-stripe-cart-setting.php:433
+#: svn/trunk/class.wp-stripe-cart.php:44
+msgid ""
+"We just sent your receipt to your email address, and your items will be on "
+"their way shortly."
+msgstr ""
+"メールアドレスに領収書を送信しました。商品到着まで、今しばらくお待ちくださ"
+"い。"
+
+#: class.wp-stripe-cart-setting.php:449
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:438
+#: svn/trunk/class.wp-stripe-cart-setting.php:438
+msgid "Error header"
+msgstr "エラー時ヘッダー"
+
+#: class.wp-stripe-cart-setting.php:453 class.wp-stripe-cart.php:45
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:442
+#: svn/tags/1.0.0/class.wp-stripe-cart.php:45
+#: svn/trunk/class.wp-stripe-cart-setting.php:442
+#: svn/trunk/class.wp-stripe-cart.php:45
+msgid "Oops, payment failed."
+msgstr "支払いに失敗しました。"
+
+#: class.wp-stripe-cart-setting.php:457
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:446
+#: svn/trunk/class.wp-stripe-cart-setting.php:446
+msgid "Error message"
+msgstr "エラーメッセージ"
+
+#: class.wp-stripe-cart-setting.php:460
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:449
+#: svn/trunk/class.wp-stripe-cart-setting.php:449
+msgid ""
+"Please note that error message from STRIPE will be inserted below this "
+"message."
+msgstr ""
+"STRIPE からのエラーメッセージは、このメッセージの下に挿入されますのでご注意く"
+"ださい。"
+
+#: class.wp-stripe-cart-setting.php:461 class.wp-stripe-cart.php:46
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:450
+#: svn/tags/1.0.0/class.wp-stripe-cart.php:46
+#: svn/trunk/class.wp-stripe-cart-setting.php:450
+#: svn/trunk/class.wp-stripe-cart.php:46
+msgid ""
+"It looks like your order could not be paid at this time. Please try again or "
+"try a different card."
+msgstr ""
+"支払いが完了できなかったようですう。もう一度やり直すか、別のカードを試してく"
+"ださい。"
+
+#: class.wp-stripe-cart-setting.php:468
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:457
+#: svn/trunk/class.wp-stripe-cart-setting.php:457
+msgid "Save"
+msgstr "保存"
+
+#: class.wp-stripe-cart-setting.php:518
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:507
+#: svn/trunk/class.wp-stripe-cart-setting.php:507
+#, php-format
+msgid "If you set to Test environment, %s are must be set."
+msgstr "テスト環境に設定した場合は、%sを設定する必要があります。"
+
+#: class.wp-stripe-cart-setting.php:524
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:513
+#: svn/trunk/class.wp-stripe-cart-setting.php:513
+#, php-format
+msgid "If you set to Live environment, %s are must be set."
+msgstr "本番環境に設定した場合は、%sを設定する必要があります。"
+
+#: class.wp-stripe-cart-setting.php:578
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:567
+#: svn/trunk/class.wp-stripe-cart-setting.php:567
+msgid "WP Stripe Cart settings are successfully saved !"
+msgstr "WP Stripe Cart の設定が正常に保存されました!"
+
+#: class.wp-stripe-cart-setting.php:600
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:589
+#: svn/tags/1.0.0/template/cart.php:43
+#: svn/trunk/class.wp-stripe-cart-setting.php:589
+#: svn/trunk/template/cart.php:43 template/cart.php:43
+msgid "Update"
+msgstr "更新"
+
+#: class.wp-stripe-cart-setting.php:601
+#: svn/tags/1.0.0/class.wp-stripe-cart-setting.php:590
+#: svn/tags/1.0.0/template/cart.php:48
+#: svn/trunk/class.wp-stripe-cart-setting.php:590
+#: svn/trunk/template/cart.php:48 template/cart.php:48
+msgid "Remove"
+msgstr "削除"
+
+#: svn/tags/1.0.0/template/cart-icon.php:11 svn/trunk/template/cart-icon.php:11
+#: template/cart-icon.php:11
+msgid "Added to cart."
+msgstr "カートに追加しました。"
+
+#: svn/tags/1.0.0/template/cart-icon.php:13 svn/trunk/template/cart-icon.php:13
+#: template/cart-icon.php:13
+msgid "VIEW CART ( <span class=\"wsc-cart-bubble\"></span> Items.)"
+msgstr "カートを表示 ( <span class=\"wsc-cart-bubble\"></span> 個の商品)"
+
+#: svn/tags/1.0.0/template/cart.php:3 svn/trunk/template/cart.php:3
+#: template/cart.php:3
+msgid "SHOPPING CART"
+msgstr "ショッピングカート"
+
+#: svn/tags/1.0.0/template/cart.php:6 svn/trunk/template/cart.php:6
+#: template/cart.php:6
+msgid "Cart is empty"
+msgstr "カートは空です"
+
+#: svn/tags/1.0.0/template/cart.php:22 svn/tags/1.0.0/template/checkout.php:63
+#: svn/trunk/template/cart.php:22 svn/trunk/template/checkout.php:63
+#: template/cart.php:22 template/checkout.php:63
+msgid "To be calculated"
+msgstr "住所入力後に算出"
+
+#: svn/tags/1.0.0/template/cart.php:26 svn/tags/1.0.0/template/checkout.php:67
+#: svn/trunk/template/cart.php:26 svn/trunk/template/checkout.php:67
+#: template/cart.php:26 template/checkout.php:67
+msgid "Total amount to pay"
+msgstr "支払額の合計"
+
+#: svn/tags/1.0.0/template/cart.php:29 svn/tags/1.0.0/template/checkout.php:7
+#: svn/trunk/template/cart.php:29 svn/trunk/template/checkout.php:7
+#: template/cart.php:29 template/checkout.php:7
+msgid "CHECKOUT"
+msgstr "チェックアウト"
+
+#: svn/tags/1.0.0/template/checkout.php:6 svn/trunk/template/checkout.php:6
+#: template/checkout.php:6
+msgid "Back to cart"
+msgstr "カートに戻る"
+
+#: svn/tags/1.0.0/template/checkout.php:10 svn/trunk/template/checkout.php:10
+#: template/checkout.php:10
+msgid "Please complete your shipping and payment details below."
+msgstr "住所とお支払い情報を入力してください。"
+
+#: svn/tags/1.0.0/template/checkout.php:12 svn/trunk/template/checkout.php:12
+#: template/checkout.php:12
+msgid "Shipping &amp; Billing Information"
+msgstr "住所・お支払い情報"
+
+#: svn/tags/1.0.0/template/checkout.php:51 svn/trunk/template/checkout.php:51
+#: template/checkout.php:51
+msgid "Order Summary"
+msgstr "ご注文商品一覧"
+
+#: svn/tags/1.0.0/template/checkout.php:72 svn/trunk/template/checkout.php:72
+#: template/checkout.php:72
+msgid "Payment Information"
+msgstr "支払情報"
+
+#: svn/tags/1.0.0/template/checkout.php:77 svn/trunk/template/checkout.php:77
+#: template/checkout.php:77
+msgid "OR"
+msgstr "または"
+
+#: svn/tags/1.0.0/template/checkout.php:97 svn/trunk/template/checkout.php:97
+#: template/checkout.php:97
+msgid "Processing…"
+msgstr "処理中…"
+
+#: svn/tags/1.0.0/template/checkout.php:97 svn/trunk/template/checkout.php:97
+#: template/checkout.php:97
+msgid "Pay"
+msgstr "支払う"
+
+#: svn/tags/1.0.0/template/checkout.php:113 svn/trunk/template/checkout.php:113
+#: template/checkout.php:113
+msgid "CLOSE"
+msgstr "閉じる"
+
+#: svn/tags/1.0.0/template/product.php:12 svn/trunk/template/product.php:12
+#: template/product.php:12
+msgid "Add to cart"
+msgstr "カートに追加"
+
+#: svn/tags/1.0.0/wp-stripe-cart.php:121 svn/trunk/wp-stripe-cart.php:121
+#: wp-stripe-cart.php:121
+msgid "Orders - WP Stripe Cart"
+msgstr "注文 - WP Stripe Cart"
+
+#: svn/tags/1.0.0/wp-stripe-cart.php:122 svn/trunk/wp-stripe-cart.php:122
+#: wp-stripe-cart.php:122
+msgid "WP Stripe Cart"
+msgstr "WP Stripe Cart"
+
+#: svn/tags/1.0.0/wp-stripe-cart.php:133 svn/trunk/wp-stripe-cart.php:133
+#: wp-stripe-cart.php:133
+msgid "Order"
+msgstr "注文"
+
+#: svn/tags/1.0.0/wp-stripe-cart.php:143 svn/trunk/wp-stripe-cart.php:143
+#: wp-stripe-cart.php:143
+msgid "Setting"
+msgstr "設定"
+
+#. Plugin Name of the plugin/theme
+msgid "WP STRIPE CART"
+msgstr "WP STRIPE CART"
+
+#. Plugin URI of the plugin/theme
+msgid "https://wordpress.org/plugins/wp-stripe-cart/"
+msgstr ""
+
+#. Description of the plugin/theme
+msgid ""
+"Simple cart for WordPress with STRIPE payment. Ideal for someone who wants "
+"to sell only few products."
+msgstr ""
+"STRIPEとWordPressを使用したシンプルなカート。少数の商品だけを販売したい人に最"
+"適です。"
+
+#. Author of the plugin/theme
+msgid "Yosuke Inoue"
+msgstr "Yosuke Inoue"
+
+#. Author URI of the plugin/theme
+msgid "https://www.metrocode.co/"
+msgstr ""

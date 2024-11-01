@@ -1,0 +1,33 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "أسوان — Aswan Governorate", "value": "أسوان"},
+        {"label": "أسيوط — Asyut Governorate", "value": "أسيوط"},
+        {"label": "الإسكندرية — Alexandria Governorate", "value": "الإسكندرية"},
+        {"label": "الإسماعيلية — Ismailia Governorate", "value": "الإسماعيلية"},
+        {"label": "الأقصر — Luxor Governorate", "value": "الأقصر"},
+        {"label": "البحر الأحمر — Red Sea Governorate", "value": "البحر الأحمر"},
+        {"label": "البحيرة — El Beheira Governorate", "value": "البحيرة"},
+        {"label": "الجيزة — Giza Governorate", "value": "الجيزة"},
+        {"label": "الدقهلية — Dakahlia Governorate", "value": "الدقهلية"},
+        {"label": "السويس — Suez Governorate", "value": "السويس"},
+        {"label": "الشرقية — Ash Sharqia Governorate", "value": "الشرقية"},
+        {"label": "الغربية — Gharbia Governorate", "value": "الغربية"},
+        {"label": "الفيوم — Faiyum Governorate", "value": "الفيوم"},
+        {"label": "القاهرة — Cairo Governorate", "value": "القاهرة"},
+        {"label": "القليوبية — Qalyubia Governorate", "value": "القليوبية"},
+        {"label": "المنوفية — Menofia Governorate", "value": "المنوفية"},
+        {"label": "المنيا — Menia Governorate", "value": "المنيا"},
+        {"label": "الوادي الجديد — New Valley Governorate", "value": "الوادي الجديد"},
+        {"label": "بني سويف — Beni Suef Governorate", "value": "بني سويف"},
+        {"label": "بورسعيد — Port Said Governorate", "value": "بورسعيد"},
+        {"label": "جنوب سيناء — South Sinai Governorate", "value": "جنوب سيناء"},
+        {"label": "دمياط — Damietta Governorate", "value": "دمياط"},
+        {"label": "سوهاج — Sohag Governorate", "value": "سوهاج"},
+        {"label": "شمال سيناء — North Sinai Governorate", "value": "شمال سيناء"},
+        {"label": "قنا — Qena Governorate", "value": "قنا"},
+        {"label": "كفر الشيخ — Kafr El Sheikh Governorate", "value": "كفر الشيخ"},
+        {"label": "مطروح — Matrouh Governorate", "value": "مطروح"}
+    ]
+}

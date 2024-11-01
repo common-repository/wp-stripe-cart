@@ -1,0 +1,24 @@
+{
+    "label": "Department",
+    "data": [
+        {"label": "Department", "value": ""},
+        {"label": "Atlántida", "value": "Atlántida"},
+        {"label": "Choluteca", "value": "Choluteca"},
+        {"label": "Colón", "value": "Colón"},
+        {"label": "Comayagua", "value": "Comayagua"},
+        {"label": "Copán", "value": "Copán"},
+        {"label": "Cortés", "value": "Cortés"},
+        {"label": "El Paraíso", "value": "El Paraíso"},
+        {"label": "Francisco Morazán", "value": "Francisco Morazán"},
+        {"label": "Gracias a Dios", "value": "Gracias a Dios"},
+        {"label": "Intibucá", "value": "Intibucá"},
+        {"label": "Islas de la Bahía", "value": "Islas de la Bahía"},
+        {"label": "La Paz", "value": "La Paz"},
+        {"label": "Lempira", "value": "Lempira"},
+        {"label": "Ocotepeque", "value": "Ocotepeque"},
+        {"label": "Olancho", "value": "Olancho"},
+        {"label": "Santa Bárbara", "value": "Santa Bárbara"},
+        {"label": "Valle", "value": "Valle"},
+        {"label": "Yoro", "value": "Yoro"}
+    ]
+}

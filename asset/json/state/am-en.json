@@ -1,0 +1,17 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "Արագածոտն — Aragatsotn", "value": "Արագածոտն"},
+        {"label": "Արարատ — Ararat", "value": "Արարատ"},
+        {"label": "Արմավիր — Armavir", "value": "Արմավիր"},
+        {"label": "Գեղարքունիք — Gegharkunik", "value": "Գեղարքունիք"},
+        {"label": "Երևան — Yerevan", "value": "Երևան"},
+        {"label": "Լոռի — Lori", "value": "Լոռի"},
+        {"label": "Կոտայք — Kotayk", "value": "Կոտայք"},
+        {"label": "Շիրակ — Shirak", "value": "Շիրակ"},
+        {"label": "Սյունիք — Syunik", "value": "Սյունիք"},
+        {"label": "Վայոց ձոր — Vayots Dzor", "value": "Վայոց ձոր"},
+        {"label": "Տավուշ — Tavush", "value": "Տավուշ"}
+    ]
+}

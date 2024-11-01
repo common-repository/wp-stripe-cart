@@ -1,0 +1,23 @@
+{
+    "label": "Province",
+    "data": [
+        {"label": "Province", "value": ""},
+        {"label": "Almaty", "value": "Almaty"},
+        {"label": "Astana", "value": "Astana"},
+        {"label": "Almatinskaya oblast'", "value": "Almatinskaya oblast'"},
+        {"label": "Akmolinskaya oblast'", "value": "Akmolinskaya oblast'"},
+        {"label": "Aktyubinskaya oblast'", "value": "Aktyubinskaya oblast'"},
+        {"label": "Atyrauskaya oblast'", "value": "Atyrauskaya oblast'"},
+        {"label": "Baykonyr", "value": "Baykonyr"},
+        {"label": "Zapadno-Kazakhstanskaya oblast'", "value": "Zapadno-Kazakhstanskaya oblast'"},
+        {"label": "Mangistauskaya oblast'", "value": "Mangistauskaya oblast'"},
+        {"label": "Yuzhno-Kazakhstankaya oblast'", "value": "Yuzhno-Kazakhstankaya oblast'"},
+        {"label": "Pavlodarskaya oblast'", "value": "Pavlodarskaya oblast'"},
+        {"label": "Karagandinskaya oblast'", "value": "Karagandinskaya oblast'"},
+        {"label": "Kostanayskaya oblast'", "value": "Kostanayskaya oblast'"},
+        {"label": "Kyzylordinskaya oblast'", "value": "Kyzylordinskaya oblast'"},
+        {"label": "Vostochno-Kazakhstanskaya oblast'", "value": "Vostochno-Kazakhstanskaya oblast'"},
+        {"label": "Severo-Kazakhstanskaya oblast'", "value": "Severo-Kazakhstanskaya oblast'"},
+        {"label": "Zhambylskaya oblast'", "value": "Zhambylskaya oblast'"}
+    ]
+}

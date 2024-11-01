@@ -1,0 +1,21 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Antofagasta", "value": "Antofagasta"},
+        {"label": "Araucanía", "value": "Araucanía"},
+        {"label": "Arica y Parinacota", "value": "Arica y Parinacota"},
+        {"label": "Atacama", "value": "Atacama"},
+        {"label": "Aysén del General Carlos Ibáñez del Campo", "value": "Aysén"},
+        {"label": "Biobío", "value": "Biobío"},
+        {"label": "Coquimbo", "value": "Coquimbo"},
+        {"label": "Libertador General Bernardo O'Higgins", "value": "O'Higgins"},
+        {"label": "Los Lagos", "value": "Los Lagos"},
+        {"label": "Los Ríos", "value": "Los Ríos"},
+        {"label": "Magallanes y de la Antártica Chilena", "value": "Magallanes"},
+        {"label": "Maule", "value": "Maule"},
+        {"label": "Metropolitana de Santiago", "value": "Región Metropolitana"},
+        {"label": "Tarapacá", "value": "Tarapacá"},
+        {"label": "Valparaíso", "value": "Valparaíso"}
+    ]
+}

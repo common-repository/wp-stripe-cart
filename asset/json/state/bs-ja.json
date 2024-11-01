@@ -1,0 +1,25 @@
+{
+    "label": "島",
+    "data": [
+        {"label": "島", "value": ""},
+        {"label": "Abaco Islands", "value": "Abaco"},
+        {"label": "Acklins", "value": "Acklins"},
+        {"label": "Andros Island", "value": "Andros"},
+        {"label": "Berry Islands", "value": "Berry Islands"},
+        {"label": "Bimini", "value": "Bimini"},
+        {"label": "Cat Island", "value": "Cat Island"},
+        {"label": "Crooked Island", "value": "Crooked Island"},
+        {"label": "Eleuthera", "value": "Eleuthera"},
+        {"label": "Exuma and Cays", "value": "Exuma"},
+        {"label": "Grand Bahama", "value": "Grand Bahama"},
+        {"label": "Harbour Island", "value": "Harbour Island"},
+        {"label": "Inagua", "value": "Inagua"},
+        {"label": "Long Island", "value": "Long Island"},
+        {"label": "Mayaguana", "value": "Mayaguana"},
+        {"label": "New Providence", "value": "N.P."},
+        {"label": "Ragged Island", "value": "Ragged Island"},
+        {"label": "Rum Cay", "value": "Rum Cay"},
+        {"label": "San Salvador", "value": "San Salvador"},
+        {"label": "Spanish Wells", "value": "Spanish Wells"}
+    ]
+}

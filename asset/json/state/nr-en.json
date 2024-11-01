@@ -1,0 +1,20 @@
+{
+    "label": "District",
+    "data": [
+        {"label": "District", "value": ""},
+        {"label": "Aiwo District", "value": "Aiwo District"},
+        {"label": "Anabar District", "value": "Anabar District"},
+        {"label": "Anetan District", "value": "Anetan District"},
+        {"label": "Anibare District", "value": "Anibare District"},
+        {"label": "Baiti District", "value": "Baiti District"},
+        {"label": "Boe District", "value": "Boe District"},
+        {"label": "Buada District", "value": "Buada District"},
+        {"label": "Denigomodu District", "value": "Denigomodu District"},
+        {"label": "Ewa District", "value": "Ewa District"},
+        {"label": "Ijuw District", "value": "Ijuw District"},
+        {"label": "Meneng District", "value": "Meneng District"},
+        {"label": "Nibok District", "value": "Nibok District"},
+        {"label": "Uaboe District", "value": "Uaboe District"},
+        {"label": "Yaren District", "value": "Yaren District"}
+    ]
+}

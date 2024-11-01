@@ -1,0 +1,20 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Ahuachapán", "value": "Ahuachapan"},
+        {"label": "Cabañas", "value": "Cabanas"},
+        {"label": "Chalatenango", "value": "Calatenango"},
+        {"label": "Cuscatlán", "value": "Cuscatlan"},
+        {"label": "La Libertad", "value": "La Libertad"},
+        {"label": "La Paz", "value": "La Paz"},
+        {"label": "La Unión", "value": "La Union"},
+        {"label": "Morazán", "value": "Morazan"},
+        {"label": "San Miguel", "value": "San Miguel"},
+        {"label": "San Salvador", "value": "San Salvador"},
+        {"label": "San Vicente", "value": "San Vicente"},
+        {"label": "Santa Ana", "value": "Santa Ana"},
+        {"label": "Sonsonate", "value": "Sonsonate"},
+        {"label": "Usulután", "value": "Usulutan"}
+    ]
+}

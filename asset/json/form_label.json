@@ -1,0 +1,22 @@
+{
+    "ja":{
+        "country": "国",
+        "name": "名前",
+        "email": "メールアドレス",
+        "zip": "郵便番号",
+        "city": "市区町村",
+        "state": "州/郡",
+        "line1": "番地",
+        "line2": "建物名など"
+    },
+    "en":{
+        "country": "Country",
+        "name": "Name",
+        "email": "Email",
+        "zip": "Postal Code",
+        "city": "City",
+        "state": "State/County",
+        "line1": "Address1",
+        "line2": "Address2"
+    }
+}

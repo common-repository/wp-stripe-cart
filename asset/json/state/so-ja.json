@@ -1,0 +1,24 @@
+{
+    "label": "省",
+    "data": [
+        {"label": "省", "value": ""},
+        {"label": "Awdal", "value": "AD"},
+        {"label": "Bakool", "value": "BK"},
+        {"label": "Banaadir", "value": "BN"},
+        {"label": "Bari", "value": "BR"},
+        {"label": "Bay", "value": "BY"},
+        {"label": "Galguduud", "value": "GG"},
+        {"label": "Gedo", "value": "GD"},
+        {"label": "Hiiraan", "value": "HR"},
+        {"label": "Jubbada Dhexe", "value": "JD"},
+        {"label": "Jubbada Hoose", "value": "JH"},
+        {"label": "Mudug", "value": "MD"},
+        {"label": "Nugaal", "value": "NG"},
+        {"label": "Sanaag", "value": "SG"},
+        {"label": "Shabeellaha Dhexe", "value": "SD"},
+        {"label": "Shabeellaha Hoose", "value": "SH"},
+        {"label": "Sool", "value": "SL"},
+        {"label": "Togdheer", "value": "TG"},
+        {"label": "Woqooyi Galbeed", "value": "WG"}
+    ]
+}

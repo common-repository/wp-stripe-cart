@@ -1,0 +1,23 @@
+{
+    "label": "県",
+    "data": [
+        {"label": "県", "value": ""},
+        {"label": "Boaco", "value": "Boaco"},
+        {"label": "Carazo", "value": "Carazo"},
+        {"label": "Chinandega", "value": "Chinandega"},
+        {"label": "Chontales", "value": "Chontales"},
+        {"label": "Estelí", "value": "Estelí"},
+        {"label": "Granada", "value": "Granada"},
+        {"label": "Jinotega", "value": "Jinotega"},
+        {"label": "León", "value": "León"},
+        {"label": "Madriz", "value": "Madriz"},
+        {"label": "Managua", "value": "Managua"},
+        {"label": "Masaya", "value": "Masaya"},
+        {"label": "Matagalpa", "value": "Matagalpa"},
+        {"label": "Nueva Segovia", "value": "Nueva Segovia"},
+        {"label": "Región Autónoma de la Costa Caribe Norte", "value": "Región Autónoma de la Costa Caribe Norte"},
+        {"label": "Región Autónoma de la Costa Caribe Sur", "value": "Región Autónoma de la Costa Caribe Sur"},
+        {"label": "Río San Juan", "value": "Río San Juan"},
+        {"label": "Rivas", "value": "Rivas"}
+    ]
+}

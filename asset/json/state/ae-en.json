@@ -1,0 +1,13 @@
+{
+    "label": "Emirate",
+    "data": [
+        {"label": "Emirate", "value": ""},
+        {"label": "أبو ظبي — Abu Dhabi", "value": "أبو ظبي"},
+        {"label": "الشارقة — Sharjah", "value": "إمارة الشارقةّ"},
+        {"label": "الفجيرة — Fujairah", "value": "الفجيرة"},
+        {"label": "ام القيوين — Umm Al Quwain", "value": "ام القيوين"},
+        {"label": "دبي — Dubai", "value": "إمارة دبيّ"},
+        {"label": "رأس الخيمة — Ras al Khaimah", "value": "إمارة رأس الخيمة"},
+        {"label": "عجمان — Ajman", "value": "عجمان"}
+    ]
+}
